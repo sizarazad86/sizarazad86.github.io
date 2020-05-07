@@ -1,0 +1,34 @@
+.swiper-container {
+    background-color: #222;
+    padding-top: 10px;
+    border-bottom: 1px solid #222;
+}
+
+.swiper-wrapper {
+    padding-bottom: 30px;
+}
+
+.app-icon {
+    background-color: #aaa;
+    width: 90px;
+    height: 90px;
+    border-radius: 15px;
+}
+
+.app-icon-margin {
+    margin-left: 15px;
+}
+
+.app-name {
+    color: #fff;
+    margin: 90px auto auto -90px;
+}
+
+.first-app {
+    margin-left: 15px;
+}
+
+.last-app {
+    margin-left: 15px;
+    margin-right: 15px;
+}
