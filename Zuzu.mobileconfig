@@ -3,25 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>HasRemovalPasscode</key>
-	<true/>
+	<false/>
 	<key>PayloadContent</key>
 	<array>
-		<dict>
-			<key>PayloadDescription</key>
-			<string>Configures a password for profile removal</string>
-			<key>PayloadDisplayName</key>
-			<string>Profile Removal</string>
-			<key>PayloadIdentifier</key>
-			<string>com.apple.profileRemovalPassword.227EA802-AD07-407C-BB29-A8207E23AE1A</string>
-			<key>PayloadType</key>
-			<string>com.apple.profileRemovalPassword</string>
-			<key>PayloadUUID</key>
-			<string>227EA802-AD07-407C-BB29-A8207E23AE1A</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-			<key>RemovalPassword</key>
-			<string>lol</string>
-		</dict>
 		<dict>
 			<key>FullScreen</key>
 			<true/>
@@ -11562,8 +11546,10 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>8028218B-5968-4518-A078-C0B94519EAB1</string>
+	<string>332B2071-E50A-4FB7-B3B0-E33C5AE6313E</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
+	<key>RemovalDate</key>
+	<date>2021-03-06T01:26:33Z</date>
 </dict>
 </plist>
