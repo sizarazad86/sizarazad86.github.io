@@ -1,8 +1,0 @@
-Origin: Sizar's Repo
-Label: Sizar's Repository
-Suite: stable
-Version: 1.0
-Codename: ios
-Architectures: iphoneos-arm
-Components: main
-Description: a Cydia repository for all kinds of tweaks.
