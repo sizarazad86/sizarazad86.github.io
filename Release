@@ -1,8 +1,11 @@
 Origin: Sizar's Repo
-Label: sizar
+Label: Sizar's Repo
 Suite: stable
 Version: 1.0
 Codename: sizar
 Architecture: iphoneos-arm
 Components: main
-Description: Sizar's Tweaks.
+Description: Sizar's Tweaks
+MD5Sum:
+ 1fc8b3c3f8e39bc7228a867ab0ceb297 78884 Packages
+ 5b3b93c6be68f0d9048f4090d08ffb28 21370 Packages.bz2

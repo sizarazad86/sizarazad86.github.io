@@ -14,7 +14,25 @@ Homepage: http://twitter.com/s1z4r
 Description: ADs Blocker for Apps.. Note: may not load page or app crash.
 Name: ADs Blocker
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.adblock
+Depiction: http://sizu.gq/description.html?id=com.julioverne.adblock
+
+Package: gq.sizu.vpnmastervip
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Section: Tweaks
+Maintainer: Sizar
+Depends: mobilesubstrate
+Filename: ./debfiles/VpnMasterVIP_iphoneos-arm
+Size: 5392
+MD5sum: 47ba6ee84c0a964d6ca654dcac1ba7d3
+SHA1: c5087f5b35102436ef8db5a486c32217e0985abf
+SHA256: 547270ee5d75c566ef94638d11893bc763e9e95cf04a27d12c70eb02018348d5
+SHA512: fc1656b4cf89a08a30ccbd79b27bb59180fefc63faeb41e03c39a7ae539c84a45df83eda531346b15e1d14cbad3cdc321dd39183d7b951004792b69651499dbe
+Homepage: http://twitter.com/s1z4r
+Description: VPN Proxy Master VIP!
+Name: VPN Proxy Master VIP
+Author: Sizar <sizarazad86@gmail.com>
+Depiction: http://sizu.gq/description.html?id=gq.sizu.vpnmastervip
 
 Package: com.julioverne.albumhider
 Architecture: iphoneos-arm
@@ -31,7 +49,7 @@ SHA512: dfaf701cde33897ad4113b2c5ce28a255cd0f3fa76d8caf22b5279f1c5ab80b22db7b17a
 Description: Hide Album's On Photo App
 Name: AlbumHider
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.albumhider
+Depiction: http://sizu.gq/description.html?id=com.julioverne.albumhider
 
 Package: com.julioverne.albumpref
 Architecture: iphoneos-arm
@@ -50,7 +68,7 @@ Description: Choose Preferred Album in Messages
 Name: AlbumPref
 Author: Sizar <sizarazad86@gmail.com>
 Icon: file:///Library/PreferenceBundles/AlbumPrefSettings.bundle/icon@2x.png
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.albumpref
+Depiction: http://sizu.gq/description.html?id=com.julioverne.albumpref
 
 Package: com.julioverne.appellancy11
 Architecture: iphoneos-arm
@@ -72,7 +90,7 @@ Name: Appellancy (iOS 11)
 Author: Elijah Frederickson, julioverne
 dev: elijahfrederickson
 Icon: file:///Library/PreferenceBundles/AppellancySettings.bundle/AppellancySettings@2x.png
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.appellancy11
+Depiction: http://sizu.gq/description.html?id=com.julioverne.appellancy11
 
 Package: com.julioverne.appssiripin
 Architecture: iphoneos-arm
@@ -91,7 +109,7 @@ Description: Pin Apps In Siri Suggestion Widget
 Name: AppsSiriPin
 Author: Sizar <sizarazad86@gmail.com>
 Icon: file:///Library/PreferenceBundles/AppsSiriPin.bundle/icon@2x.png
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.appssiripin
+Depiction: http://sizu.gq/description.html?id=com.julioverne.appssiripin
 
 Package: com.julioverne.appstorenohistory
 Architecture: iphoneos-arm
@@ -110,7 +128,7 @@ Description: Clean Updated Apps History
 Name: Appstore No History
 Author: Sizar <sizarazad86@gmail.com>
 Icon: file:///Library/PreferenceBundles/AppstoreNoHistorySettings.bundle/icon@2x.png
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.appstorenohistory
+Depiction: http://sizu.gq/description.html?id=com.julioverne.appstorenohistory
 
 Package: com.julioverne.appstoreunrestrict
 Architecture: iphoneos-arm
@@ -129,7 +147,7 @@ Description: No Download Size Limit In AppStore Over Cellular
 Name: Appstore Unrestrict
 Author: Sizar <sizarazad86@gmail.com>
 Icon: file:///Library/PreferenceBundles/AppstoreUnrestrictSettings.bundle/icon@2x.png
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.appstoreunrestrict
+Depiction: http://sizu.gq/description.html?id=com.julioverne.appstoreunrestrict
 
 Package: com.julioverne.artworkify
 Architecture: iphoneos-arm
@@ -147,7 +165,7 @@ Homepage: http://twitter.com/ijulioverne
 Description: Spotify Artwork In Playlist
 Name: Artworkify
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.artworkify
+Depiction: http://sizu.gq/description.html?id=com.julioverne.artworkify
 
 Package: com.julioverne.autoshiftfix
 Architecture: iphoneos-arm
@@ -165,7 +183,7 @@ Homepage: http://twitter.com/ijulioverne
 Description: No shift when delete capitalized letter
 Name: AutoShiftFix
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.autoshiftfix
+Depiction: http://sizu.gq/description.html?id=com.julioverne.autoshiftfix
 
 Package: com.julioverne.autowall
 Architecture: iphoneos-arm
@@ -184,7 +202,7 @@ Description: Scheduled Wallpapers
 Name: AutoWall
 Author: Sizar <sizarazad86@gmail.com>
 Icon: file:///Library/PreferenceBundles/AutoWallSettings.bundle/icon@2x.png
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.autowall
+Depiction: http://sizu.gq/description.html?id=com.julioverne.autowall
 
 Package: com.julioverne.avcache
 Architecture: iphoneos-arm
@@ -201,7 +219,7 @@ Homepage: http://twitter.com/ijulioverne
 Description: Video Buffer System for AVPlayer
 Name: AVCache
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.avcache
+Depiction: http://sizu.gq/description.html?id=com.julioverne.avcache
 
 Package: com.julioverne.bgmodekill
 Architecture: iphoneos-arm
@@ -219,7 +237,7 @@ Homepage: http://twitter.com/ijulioverne
 Description: Kill Auto-Launch Background Apps Some Apps has Auto-Launch Background whem system start or remove from multitask (like Mail/WhatsApp App) with this will disable Auto-Launch Background in All Apps. No options to Configure.
 Name: BGModeKill
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.bgmodekill
+Depiction: http://sizu.gq/description.html?id=com.julioverne.bgmodekill
 
 Package: com.julioverne.bigshotjb11
 Architecture: iphoneos-arm
@@ -238,7 +256,7 @@ Description: take screenshots of full vertical scrollable area
 Name: BigShotJb (iOS 11)
 Author: tapthaker, julioverne
 dev: tapthaker
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.bigshotjb11
+Depiction: http://sizu.gq/description.html?id=com.julioverne.bigshotjb11
 
 Package: com.julioverne.biotap
 Architecture: iphoneos-arm
@@ -256,7 +274,7 @@ Homepage: http://twitter.com/ijulioverne
 Description: Bio Authenticated Auto Tap to Unlock
 Name: BioTap
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.biotap
+Depiction: http://sizu.gq/description.html?id=com.julioverne.biotap
 
 Package: com.julioverne.blightalert
 Architecture: iphoneos-arm
@@ -274,7 +292,7 @@ Homepage: http://twitter.com/ijulioverne
 Description: Use Brightness As Alert
 Name: BLightAlert
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.blightalert
+Depiction: http://sizu.gq/description.html?id=com.julioverne.blightalert
 
 Package: com.julioverne.bumbleverifyroll
 Architecture: iphoneos-arm
@@ -292,7 +310,7 @@ Homepage: http://twitter.com/ijulioverne
 Description: Verify Account Photo via Camera Roll
 Name: BumbleVerifyRoll
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.bumbleverifyroll
+Depiction: http://sizu.gq/description.html?id=com.julioverne.bumbleverifyroll
 
 Package: com.julioverne.cacheclearer11
 Architecture: iphoneos-arm
@@ -311,7 +329,7 @@ Description: Clear app caches from the Usage section in Settings
 Name: CacheClearer (iOS 11)
 Author: Ryan Petrich, julioverne
 dev: rpetrich
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.cacheclearer11
+Depiction: http://sizu.gq/description.html?id=com.julioverne.cacheclearer11
 
 Package: com.julioverne.cachewipe
 Architecture: iphoneos-arm
@@ -330,7 +348,7 @@ Description: Clear Apps Caches Switch
 Name: CacheWipe
 Author: Sizar <sizarazad86@gmail.com>
 Icon: file:///Library/Switches/CacheWipe.bundle/icon@2x.png
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.cachewipe
+Depiction: http://sizu.gq/description.html?id=com.julioverne.cachewipe
 
 Package: com.julioverne.celldia
 Architecture: iphoneos-arm
@@ -348,7 +366,7 @@ Homepage: http://twitter.com/ijulioverne
 Description: Redesigned Cell Cydia
 Name: CellDia
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.celldia
+Depiction: http://sizu.gq/description.html?id=com.julioverne.celldia
 
 Package: com.julioverne.chargemode
 Architecture: iphoneos-arm
@@ -366,7 +384,7 @@ Homepage: http://twitter.com/ijulioverne
 Description: Lite Charging View with Batt Dots and Hour.
 Name: ChargeMode
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.chargemode
+Depiction: http://sizu.gq/description.html?id=com.julioverne.chargemode
 
 Package: com.julioverne.cirdock11
 Architecture: iphoneos-arm
@@ -386,7 +404,7 @@ Name: CirDock (iOS 11)
 Author: Brave Heart, julioverne
 dev: alsafa7dev
 Icon: file:///PreferenceBundles/CirDockSettings.bundle/Icon-Small@2x.png
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.cirdock11
+Depiction: http://sizu.gq/description.html?id=com.julioverne.cirdock11
 
 Package: com.julioverne.closecam
 Architecture: iphoneos-arm
@@ -404,7 +422,7 @@ Homepage: http://twitter.com/ijulioverne
 Description: Close/Kill Camera App When Exit
 Name: CloseCam
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.closecam
+Depiction: http://sizu.gq/description.html?id=com.julioverne.closecam
 
 Package: com.julioverne.cmdsapp
 Architecture: iphoneos-arm
@@ -421,7 +439,7 @@ Homepage: http://twitter.com/ijulioverne
 Description: bash command list installed apps.. (getapplist [-id], getappdir [APP_ID])
 Name: cmdsapp
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.cmdsapp
+Depiction: http://sizu.gq/description.html?id=com.julioverne.cmdsapp
 
 Package: com.julioverne.coverflowm
 Architecture: iphoneos-arm
@@ -439,7 +457,7 @@ Homepage: http://twitter.com/ijulioverne
 Description: Landscape Music Styles for Music App
 Name: CoverflowM
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.coverflowm
+Depiction: http://sizu.gq/description.html?id=com.julioverne.coverflowm
 
 Package: com.julioverne.cypush2
 Architecture: iphoneos-arm
@@ -459,7 +477,7 @@ Description: Cydia Push Notifications Background
 Name: CyPush2
 Author: Sizar <sizarazad86@gmail.com>
 Icon: file:///Library/PreferenceBundles/CyPushSettings.bundle/icon@2x.png
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.cypush2
+Depiction: http://sizu.gq/description.html?id=com.julioverne.cypush2
 
 Package: com.julioverne.cypush
 Architecture: iphoneos-arm
@@ -478,7 +496,7 @@ Description: Cydia Push Notifications Background
 Name: CyPush
 Author: Sizar <sizarazad86@gmail.com>
 Icon: file:///Library/PreferenceBundles/CyPushSettings.bundle/icon@2x.png
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.cypush
+Depiction: http://sizu.gq/description.html?id=com.julioverne.cypush
 
 Package: com.julioverne.debrepack
 Architecture: iphoneos-arm
@@ -496,7 +514,7 @@ Homepage: http://twitter.com/ijulioverne
 Description: bash command to repack deb file Easy Repack deb files. type debextract/debmount on terminal to unmount/mount deb file on /var/mobile/deb/
 Name: deb Repack
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.debrepack
+Depiction: http://sizu.gq/description.html?id=com.julioverne.debrepack
 
 Package: com.julioverne.dropbearalert
 Architecture: iphoneos-arm
@@ -514,7 +532,7 @@ Homepage: http://twitter.com/ijulioverne
 Description: Dropbear System Login Alert for iOS 10
 Name: DropbearAlert
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.dropbearalert
+Depiction: http://sizu.gq/description.html?id=com.julioverne.dropbearalert
 
 Package: com.julioverne.dropbearswith
 Architecture: iphoneos-arm
@@ -532,7 +550,7 @@ Homepage: http://twitter.com/ijulioverne
 Description: SSH Toogle for Dropbear via Flipswitch in iOS 10
 Name: DropbearSwitch
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.dropbearswith
+Depiction: http://sizu.gq/description.html?id=com.julioverne.dropbearswith
 
 Package: com.julioverne.edgealert
 Architecture: iphoneos-arm
@@ -550,7 +568,7 @@ Homepage: http://twitter.com/ijulioverne
 Description: S8 Edge Alert
 Name: EdgeAlert
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.edgealert
+Depiction: http://sizu.gq/description.html?id=com.julioverne.edgealert
 
 Package: com.julioverne.epicentre11
 Architecture: iphoneos-arm
@@ -570,7 +588,7 @@ Author: Phillip Tennen, julioverne
 Name: Epicentre (iOS 11)
 dev: phillipt
 Icon: file:///Library/PreferenceBundles/Epicentre.bundle/icon@2x.png
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.epicentre11
+Depiction: http://sizu.gq/description.html?id=com.julioverne.epicentre11
 
 Package: com.julioverne.exsto11
 Architecture: iphoneos-arm
@@ -590,7 +608,7 @@ Author: Zachary Russell, julioverne
 Name: Exsto (iOS 11)
 dev: zachatrocity
 Icon: file:///Library/PreferenceBundles/exsto.bundle/exsto@2x.png
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.exsto11
+Depiction: http://sizu.gq/description.html?id=com.julioverne.exsto11
 
 Package: com.julioverne.ext3nder-installer
 Architecture: iphoneos-arm
@@ -610,7 +628,7 @@ Homepage: http://twitter.com/ijulioverne
 Description: Cydia Extender Installer With Extra Features
 Name: Ext3nder Installer
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.ext3nder-installer
+Depiction: http://sizu.gq/description.html?id=com.julioverne.ext3nder-installer
 
 Package: com.julioverne.fastuprepo2
 Architecture: iphoneos-arm
@@ -628,7 +646,7 @@ Homepage: http://twitter.com/ijulioverne
 Description: SpeedUp Cydia Update Sources by blocking download translation.
 Name: fastUpRepo2
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.fastuprepo2
+Depiction: http://sizu.gq/description.html?id=com.julioverne.fastuprepo2
 
 Package: com.julioverne.fastuprepo
 Architecture: iphoneos-arm
@@ -647,7 +665,7 @@ Homepage: http://twitter.com/ijulioverne
 Description: SpeedUp Cydia Update Sources by blocking download translation.
 Name: fastUpRepo
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.fastuprepo
+Depiction: http://sizu.gq/description.html?id=com.julioverne.fastuprepo
 
 Package: com.julioverne.fiona
 Architecture: iphoneos-arm
@@ -666,7 +684,7 @@ Description: Keep WiFi Always Connected
 Name: Fiona
 Author: Sizar <sizarazad86@gmail.com>
 Icon: file:///Library/PreferenceBundles/FionaSettings.bundle/icon@2x.png
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.fiona
+Depiction: http://sizu.gq/description.html?id=com.julioverne.fiona
 
 Package: com.julioverne.flipconvert
 Architecture: iphoneos-arm
@@ -684,7 +702,7 @@ Homepage: http://twitter.com/ijulioverne
 Description: Port Flipswitch Toggles With CCSupport
 Name: FlipConvert
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.flipconvert
+Depiction: http://sizu.gq/description.html?id=com.julioverne.flipconvert
 
 Package: com.julioverne.flipstatus
 Architecture: iphoneos-arm
@@ -702,7 +720,7 @@ Homepage: http://twitter.com/ijulioverne
 Description: FlipControlCenter Status Switch in iOS 10
 Name: FlipStatus
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.flipstatus
+Depiction: http://sizu.gq/description.html?id=com.julioverne.flipstatus
 
 Package: com.julioverne.fmydblocker
 Architecture: iphoneos-arm
@@ -721,7 +739,7 @@ Description: Find My iPhone Block Remote Actions via iCloud, Configure From Sett
 Name: fmydBlocker
 Author: Sizar <sizarazad86@gmail.com>
 Icon: file:///Library/PreferenceBundles/fmydBlockerSettings.bundle/icon@2x.png
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.fmydblocker
+Depiction: http://sizu.gq/description.html?id=com.julioverne.fmydblocker
 
 Package: com.julioverne.goodwifi
 Architecture: iphoneos-arm
@@ -740,7 +758,7 @@ Description: Better WiFi Preferences
 Name: GoodWiFi
 Author: Sizar <sizarazad86@gmail.com>
 Icon: file:///Library/PreferenceBundles/GoodWiFiSettings.bundle/icon@2x.png
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.goodwifi
+Depiction: http://sizu.gq/description.html?id=com.julioverne.goodwifi
 
 Package: com.julioverne.googleauthpro
 Architecture: iphoneos-arm
@@ -757,7 +775,7 @@ SHA512: 568a39641fa24c1dedb356d4c7179a9e156fcbbae9db14aec4d82e5f6a4d55eeea85b0b0
 Description: Features For Google Authenticator App
 Name: GoogleAuthPro
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.googleauthpro
+Depiction: http://sizu.gq/description.html?id=com.julioverne.googleauthpro
 
 Package: com.julioverne.gravity
 Architecture: iphoneos-arm
@@ -776,7 +794,7 @@ Description: Graviboard alternative
 Name: Gravity
 Author: Sizar <sizarazad86@gmail.com>
 Icon: file:///Library/PreferenceBundles/Gravity.bundle/icon@2x.png
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.gravity
+Depiction: http://sizu.gq/description.html?id=com.julioverne.gravity
 
 Package: com.julioverne.headsetbtsound
 Architecture: iphoneos-arm
@@ -794,7 +812,7 @@ Homepage: http://twitter.com/ijulioverne
 Description: Use Bluetooth HFP Headset in Apps like BT Headphones
 Name: HeadsetBTSound
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.headsetbtsound
+Depiction: http://sizu.gq/description.html?id=com.julioverne.headsetbtsound
 
 Package: com.julioverne.heysiri
 Architecture: iphoneos-arm
@@ -813,7 +831,7 @@ Description: Hey Siri While Not Charging
 Name: HeySiri
 Author: Sizar <sizarazad86@gmail.com>
 Icon: file:///Library/PreferenceBundles/HeySiriSettings.bundle/icon@2x.png
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.heysiri
+Depiction: http://sizu.gq/description.html?id=com.julioverne.heysiri
 
 Package: com.julioverne.hold2speak11
 Architecture: iphoneos-arm
@@ -831,7 +849,7 @@ SHA512: d8d198683f11f60453aec3412975fd401a3806a9beadec285a843b49371ba5d1537ba93b
 Description: answer your calls, while activating your speaker.
 Name: Hold2Speak (iOS 11)
 Author: isklikas, julioverne
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.hold2speak11
+Depiction: http://sizu.gq/description.html?id=com.julioverne.hold2speak11
 
 Package: com.julioverne.hotspotting
 Architecture: iphoneos-arm
@@ -850,7 +868,7 @@ Description: Hotspot Switch Enhanced
 Name: Hotspotting
 Author: Sizar <sizarazad86@gmail.com>
 Icon: file:///Library/PreferenceBundles/HotspottingSettings.bundle/icon@2x.png
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.hotspotting
+Depiction: http://sizu.gq/description.html?id=com.julioverne.hotspotting
 
 Package: com.julioverne.hsbcbypass
 Architecture: iphoneos-arm
@@ -868,7 +886,7 @@ Homepage: http://twitter.com/ijulioverne
 Description: Jailbreak Detection Bypass for HSBC HK/UK/France Banking App.
 Name: HSBC Bypass
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.hsbcbypass
+Depiction: http://sizu.gq/description.html?id=com.julioverne.hsbcbypass
 
 Package: com.julioverne.illlooklater11
 Architecture: iphoneos-arm
@@ -886,7 +904,7 @@ SHA512: 699bbc129edf431c860a391723b846b20a0d4e9c9111bcd2f3d23e5cd6a086e343d0d43a
 Description: Look at notifications when YOU want to!
 Name: IllLookLater (iOS 11)
 Author: N104, julioverne
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.illlooklater11
+Depiction: http://sizu.gq/description.html?id=com.julioverne.illlooklater11
 
 Package: com.julioverne.jailprotect
 Architecture: iphoneos-arm
@@ -905,7 +923,7 @@ Description: No Substrate Mode Alternative
 Name: JailProtect
 Author: Sizar <sizarazad86@gmail.com>
 Icon: file:///Library/PreferenceBundles/JailProtectSettings.bundle/icon@2x.png
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.jailprotect
+Depiction: http://sizu.gq/description.html?id=com.julioverne.jailprotect
 
 Package: com.julioverne.jbme10xwebclip
 Architecture: iphoneos-arm
@@ -922,7 +940,7 @@ Homepage: http://twitter.com/ijulioverne
 Description: Re-Active iOS 10.x Jailbreak Offline, Install totally-not.spyware.lol 10.x Webclip Profile 100% Offline.
 Name: JBMe 10.x Webclip
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.jbme10xwebclip
+Depiction: http://sizu.gq/description.html?id=com.julioverne.jbme10xwebclip
 
 Package: com.julioverne.jbme93xwebclip
 Architecture: iphoneos-arm
@@ -939,7 +957,7 @@ Homepage: http://twitter.com/ijulioverne
 Description: Re-Active Pangu 9.3.x Jailbreak Offline, Install JailbreakMe 9.3.x Webclip Profile 100% Offline.
 Name: JBMe 9.3.x Webclip
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.jbme93xwebclip
+Depiction: http://sizu.gq/description.html?id=com.julioverne.jbme93xwebclip
 
 Package: com.julioverne.kb2change
 Architecture: iphoneos-arm
@@ -957,7 +975,7 @@ Homepage: http://twitter.com/ijulioverne
 Description: Switch Between First 2 Keyboards
 Name: KB2Change
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.kb2change
+Depiction: http://sizu.gq/description.html?id=com.julioverne.kb2change
 
 Package: com.julioverne.kbmover
 Architecture: iphoneos-arm
@@ -976,7 +994,7 @@ Description: Move your Keyboard on Screen
 Name: KBMover
 Author: Sizar <sizarazad86@gmail.com>
 Icon: file:///Library/PreferenceBundles/KBMover.bundle/icon@2x.png
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.kbmover
+Depiction: http://sizu.gq/description.html?id=com.julioverne.kbmover
 
 Package: com.julioverne.keyswipe11
 Architecture: iphoneos-arm
@@ -996,7 +1014,7 @@ Author: Delewhopper, julioverne
 Name: KeySwipe (iOS 11)
 dev: delewhopper
 Icon: file:///Library/PreferenceBundles/keyswipeprefs.bundle/keyswipeicon.png
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.keyswipe11
+Depiction: http://sizu.gq/description.html?id=com.julioverne.keyswipe11
 
 Package: com.julioverne.liblinker
 Architecture: iphoneos-arm
@@ -1013,7 +1031,7 @@ Homepage: http://twitter.com/ijulioverne
 Description: link library in executable that's already compiled. type on terminal: liblinker [EXECUTABLE_PATH] [LIBRARY]
 Name: liblinker
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.liblinker
+Depiction: http://sizu.gq/description.html?id=com.julioverne.liblinker
 
 Package: com.julioverne.lockanim
 Architecture: iphoneos-arm
@@ -1032,7 +1050,7 @@ Description: Lock Animations
 Name: LockAnim
 Author: Sizar <sizarazad86@gmail.com>
 Icon: file:///Library/PreferenceBundles/LockAnimSettings.bundle/icon@2x.png
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.lockanim
+Depiction: http://sizu.gq/description.html?id=com.julioverne.lockanim
 
 Package: com.julioverne.lockdroid
 Architecture: iphoneos-arm
@@ -1051,7 +1069,7 @@ Description: Android Lockscreen
 Name: LockDroid
 Author: Sizar <sizarazad86@gmail.com>
 Icon: file:///Library/PreferenceBundles/LockDroid.bundle/icon@2x.png
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.lockdroid
+Depiction: http://sizu.gq/description.html?id=com.julioverne.lockdroid
 
 Package: com.julioverne.lockdroiddonuts
 Architecture: iphoneos-arm
@@ -1068,7 +1086,7 @@ Homepage: http://twitter.com/ijulioverne
 Description: Donuts Theme For LockDroid
 Name: Donuts LockDroid
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.lockdroiddonuts
+Depiction: http://sizu.gq/description.html?id=com.julioverne.lockdroiddonuts
 
 Package: com.julioverne.lowerinstall
 Architecture: iphoneos-arm
@@ -1086,7 +1104,7 @@ Homepage: http://twitter.com/ijulioverne
 Description: Install Apps In Lower iOS Version
 Name: LowerInstall
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.lowerinstall
+Depiction: http://sizu.gq/description.html?id=com.julioverne.lowerinstall
 
 Package: com.julioverne.luxyverifyroll
 Architecture: iphoneos-arm
@@ -1104,7 +1122,7 @@ Homepage: http://twitter.com/ijulioverne
 Description: Verify Account Photo via Camera Roll
 Name: LuxyVerifyRoll
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.luxyverifyroll
+Depiction: http://sizu.gq/description.html?id=com.julioverne.luxyverifyroll
 
 Package: com.julioverne.mcast
 Architecture: iphoneos-arm
@@ -1122,7 +1140,7 @@ Homepage: http://twitter.com/ijulioverne
 Description: Chromecast from Music App... Cast Music from Now Playing View. tested in Chromecast model 2014
 Name: mCast
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.mcast
+Depiction: http://sizu.gq/description.html?id=com.julioverne.mcast
 
 Package: com.julioverne.messagefile
 Architecture: iphoneos-arm
@@ -1140,7 +1158,7 @@ Homepage: http://twitter.com/ijulioverne
 Description: Message App Send Any Root Filesystem
 Name: MessageFile
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.messagefile
+Depiction: http://sizu.gq/description.html?id=com.julioverne.messagefile
 
 Package: com.julioverne.mibandalert
 Architecture: iphoneos-arm
@@ -1160,7 +1178,7 @@ Description: System Notification XiaoMi Mi Band for iOS.
 Name: MiBand Alert
 Author: Sizar <sizarazad86@gmail.com>
 Icon: file:///Library/PreferenceBundles/MiBandAlertSettings.bundle/MiBandAlert@2x.png
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.mibandalert
+Depiction: http://sizu.gq/description.html?id=com.julioverne.mibandalert
 
 Package: com.julioverne.mimport
 Architecture: iphoneos-arm
@@ -1179,7 +1197,7 @@ Description: Media Importer Directly From Music App
 Name: MImport
 Author: Sizar <sizarazad86@gmail.com>
 Icon: file:///Library/PreferenceBundles/MImport.bundle/icon@2x.png
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.mimport
+Depiction: http://sizu.gq/description.html?id=com.julioverne.mimport
 
 Package: com.julioverne.modernxinoblur
 Architecture: iphoneos-arm
@@ -1197,7 +1215,7 @@ Homepage: http://twitter.com/ijulioverne
 Description: Remove Blur in ModernXI
 Name: ModernXINoBlur
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.modernxinoblur
+Depiction: http://sizu.gq/description.html?id=com.julioverne.modernxinoblur
 
 Package: com.julioverne.mpscale
 Architecture: iphoneos-arm
@@ -1214,7 +1232,7 @@ SHA512: 3221cf75d5685f041650331a599e699996097665682489da6aea9dde51c28f5402d55800
 Description: Show Scale On Maps
 Name: MPScale
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.mpscale
+Depiction: http://sizu.gq/description.html?id=com.julioverne.mpscale
 
 Package: com.julioverne.mshuffle
 Architecture: iphoneos-arm
@@ -1232,7 +1250,7 @@ Homepage: http://twitter.com/ijulioverne
 Description: Music Album End Playing Hit Play To Shuffle.. Music App
 Name: MShuffle
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.mshuffle
+Depiction: http://sizu.gq/description.html?id=com.julioverne.mshuffle
 
 Package: com.julioverne.musicsection
 Architecture: iphoneos-arm
@@ -1250,7 +1268,7 @@ Homepage: http://twitter.com/ijulioverne
 Description: Open Music App On Music List Section
 Name: MusicSection
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.musicsection
+Depiction: http://sizu.gq/description.html?id=com.julioverne.musicsection
 
 Package: com.julioverne.musicv
 Architecture: iphoneos-arm
@@ -1268,7 +1286,7 @@ Homepage: http://twitter.com/ijulioverne
 Description: Better Now Playing View in Music App
 Name: MusicV
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.musicv
+Depiction: http://sizu.gq/description.html?id=com.julioverne.musicv
 
 Package: com.julioverne.musilyric
 Architecture: iphoneos-arm
@@ -1286,7 +1304,7 @@ Homepage: http://twitter.com/ijulioverne
 Description: Best Lyrics Music
 Name: MusiLyric
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.musilyric
+Depiction: http://sizu.gq/description.html?id=com.julioverne.musilyric
 
 Package: com.julioverne.ncgroup
 Architecture: iphoneos-arm
@@ -1305,7 +1323,7 @@ Description: Group Notification Center items
 Name: NCGroup
 Author: Sizar <sizarazad86@gmail.com>
 Icon: file:///Library/PreferenceBundles/NCGroup.bundle/icon@2x.png
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.ncgroup
+Depiction: http://sizu.gq/description.html?id=com.julioverne.ncgroup
 
 Package: com.julioverne.noexinsta
 Architecture: iphoneos-arm
@@ -1323,7 +1341,7 @@ Homepage: http://twitter.com/ijulioverne
 Description: Hide Explore Section In Instagram
 Name: NoExInsta
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.noexinsta
+Depiction: http://sizu.gq/description.html?id=com.julioverne.noexinsta
 
 Package: com.julioverne.nonceset
 Architecture: iphoneos-arm
@@ -1340,7 +1358,7 @@ Homepage: http://twitter.com/ijulioverne
 Description: Manage boot-nonce easy.
 Name: NonceSet
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.nonceset
+Depiction: http://sizu.gq/description.html?id=com.julioverne.nonceset
 
 Package: com.julioverne.ntspeed
 Architecture: iphoneos-arm
@@ -1359,7 +1377,7 @@ Description: See Active Traffic Network Speed
 Name: NtSpeed
 Author: Sizar <sizarazad86@gmail.com>
 Icon: file:///Library/PreferenceBundles/NtSpeedSettings.bundle/icon@2x.png
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.ntspeed
+Depiction: http://sizu.gq/description.html?id=com.julioverne.ntspeed
 
 Package: com.julioverne.otablocker
 Architecture: iphoneos-arm
@@ -1376,7 +1394,7 @@ Homepage: http://twitter.com/ijulioverne
 Description: Block iOS OTA Updates
 Name: OTABlocker
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.otablocker
+Depiction: http://sizu.gq/description.html?id=com.julioverne.otablocker
 
 Package: com.julioverne.phonescroll
 Architecture: iphoneos-arm
@@ -1394,7 +1412,7 @@ Homepage: http://twitter.com/ijulioverne
 Description: Tap In Selected Tap Bar For Scroll To Top
 Name: PhoneScroll
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.phonescroll
+Depiction: http://sizu.gq/description.html?id=com.julioverne.phonescroll
 
 Package: com.julioverne.pimport
 Architecture: iphoneos-arm
@@ -1413,7 +1431,7 @@ Description: Photo Importer Directly From Photo App
 Name: PImport
 Author: Sizar <sizarazad86@gmail.com>
 Icon: file:///Library/PreferenceBundles/PImport.bundle/icon@2x.png
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.pimport
+Depiction: http://sizu.gq/description.html?id=com.julioverne.pimport
 
 Package: com.julioverne.pipenabler
 Architecture: iphoneos-arm
@@ -1432,7 +1450,7 @@ Description: Enabler Picture In Picture Feature
 Name: PIPEnabler
 Author: Sizar <sizarazad86@gmail.com>
 Icon: file:///Library/PreferenceBundles/PIPEnablerSettings.bundle/icon@2x.png
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.pipenabler
+Depiction: http://sizu.gq/description.html?id=com.julioverne.pipenabler
 
 Package: com.julioverne.quickunlock11
 Architecture: iphoneos-arm
@@ -1451,7 +1469,7 @@ Description: Skip lockscreen if no notifications
 Author: Phillip Tennen, julioverne
 Name: QuickUnlock (iOS 11)
 dev: phillipt
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.quickunlock11
+Depiction: http://sizu.gq/description.html?id=com.julioverne.quickunlock11
 
 Package: com.julioverne.raisetoanswer
 Architecture: iphoneos-arm
@@ -1469,7 +1487,7 @@ SHA512: 5f0ae7c2d4980213030a6255f223a17150bed7691565117d284b00b17713ea813f5d371d
 Description: Raise phone to answer phone calls
 Name: RaiseToAnswer (iOS 11)
 Author: MohammadAG, julioverne
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.raisetoanswer
+Depiction: http://sizu.gq/description.html?id=com.julioverne.raisetoanswer
 dev: mohammadag
 
 Package: com.julioverne.sbcard
@@ -1488,7 +1506,7 @@ Homepage: http://twitter.com/ijulioverne
 Description: Add HomeScreen Card to Switcher, swipe up to close all apps.
 Name: SBCard
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.sbcard
+Depiction: http://sizu.gq/description.html?id=com.julioverne.sbcard
 
 Package: com.julioverne.scloudinfo
 Architecture: iphoneos-arm
@@ -1506,7 +1524,7 @@ Homepage: http://twitter.com/ijulioverne
 Description: SoundCloud Track Description Info
 Name: SCloudInfo
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.scloudinfo
+Depiction: http://sizu.gq/description.html?id=com.julioverne.scloudinfo
 
 Package: com.julioverne.sftpenabler
 Architecture: iphoneos-arm
@@ -1525,7 +1543,7 @@ Homepage: http://twitter.com/ijulioverne
 Description: SFTP connection for SSH Dropbear in iOS 10
 Name: SFTPEnabler
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.sftpenabler
+Depiction: http://sizu.gq/description.html?id=com.julioverne.sftpenabler
 
 Package: com.julioverne.signalplane
 Architecture: iphoneos-arm
@@ -1544,7 +1562,7 @@ Description: Plan For Low Signal
 Name: SignalPlane
 Author: Sizar <sizarazad86@gmail.com>
 Icon: file:///Library/PreferenceBundles/SignalPlaneSettings.bundle/icon@2x.png
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.signalplane
+Depiction: http://sizu.gq/description.html?id=com.julioverne.signalplane
 
 Package: com.julioverne.simulatetouch
 Architecture: iphoneos-arm
@@ -1560,7 +1578,7 @@ SHA1: 6bd17a9d9c50ffa27bcf977a30d313653168518f
 SHA256: fb4af24dc4544689230aea405e6b705f34312aa33d94112da2fa308cb71c5753
 SHA512: 0a76c037c77a431fa0ea04a521d40234733f2b68a570499f7d98dbb8e26ffdb8c18c1d47b6c84f9e1e7ec035a7b9f203548a48a99f9817df794631dfcfebe2ce
 Description: Simulate fake touch and swipe. Support multi-touch
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.simulatetouch
+Depiction: http://sizu.gq/description.html?id=com.julioverne.simulatetouch
 Author: iolate, julioverne
 Name: SimulateTouch
 dev: iolate
@@ -1581,7 +1599,7 @@ Homepage: http://twitter.com/ijulioverne
 Description: If Siri Unavailable Use Voice Control
 Name: SiriIfPossible
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.siriifpossible
+Depiction: http://sizu.gq/description.html?id=com.julioverne.siriifpossible
 
 Package: com.julioverne.slackhistory
 Architecture: iphoneos-arm
@@ -1599,7 +1617,7 @@ Homepage: http://twitter.com/ijulioverne
 Description: Slack See Edited Message History
 Name: SlackHistory
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.slackhistory
+Depiction: http://sizu.gq/description.html?id=com.julioverne.slackhistory
 
 Package: com.julioverne.tb280
 Architecture: iphoneos-arm
@@ -1617,7 +1635,7 @@ Homepage: http://twitter.com/ijulioverne
 Description: Tweetbot 280 Character Enabler
 Name: TB280
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.tb280
+Depiction: http://sizu.gq/description.html?id=com.julioverne.tb280
 
 Package: com.julioverne.trustdevalert
 Architecture: iphoneos-arm
@@ -1635,7 +1653,7 @@ Homepage: http://twitter.com/ijulioverne
 Description: Add Trust Button In Alert Of Free Developer Profile Not Trusted.
 Name: trustDevAlert
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.trustdevalert
+Depiction: http://sizu.gq/description.html?id=com.julioverne.trustdevalert
 
 Package: com.julioverne.tw280
 Architecture: iphoneos-arm
@@ -1653,7 +1671,7 @@ Homepage: http://twitter.com/ijulioverne
 Description: Twitter 280 Character Enabler
 Name: TW280
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.tw280
+Depiction: http://sizu.gq/description.html?id=com.julioverne.tw280
 
 Package: com.julioverne.uicachefix10
 Architecture: iphoneos-arm
@@ -1671,7 +1689,7 @@ Homepage: http://twitter.com/ijulioverne
 Description: Temp Fix uicache in iOS 10 by setting chmod 4755 in uicache and preventing Substrate loading intro uicache.
 Name: uicache Fix
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.uicachefix10
+Depiction: http://sizu.gq/description.html?id=com.julioverne.uicachefix10
 
 Package: com.julioverne.upscale
 Architecture: iphoneos-arm
@@ -1690,7 +1708,7 @@ Description: Change Device Resolution
 Name: Upscale
 Author: bd452, julioverne
 Icon: file:///Library/PreferenceBundles/Upscale.bundle/icon@2x.png
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.upscale
+Depiction: http://sizu.gq/description.html?id=com.julioverne.upscale
 
 Package: com.julioverne.vwallpaper2os11
 Architecture: iphoneos-arm
@@ -1709,7 +1727,7 @@ SHA512: 6183f09cd82694574823dd85cca2406e19b3bc638e2d0c87bdaea679f78a2f2713d774e2
 Description: Add videos, video ringtones, cool effects (particles, 3D objects), HTML Widgets (...) on your Springboard and / or Away view. Bring your iPhone to life ! (Beta stage)
 Name: vWallpaper 2 (iOS 11)
 Author: skrew, julioverne
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.vwallpaper2os11
+Depiction: http://sizu.gq/description.html?id=com.julioverne.vwallpaper2os11
 
 Package: com.julioverne.whilelotus
 Architecture: iphoneos-arm
@@ -1727,7 +1745,7 @@ Homepage: http://twitter.com/ijulioverne
 Description: Lotus Dark For Unthemed Icons
 Name: WhileLotus
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.whilelotus
+Depiction: http://sizu.gq/description.html?id=com.julioverne.whilelotus
 
 Package: com.julioverne.widplayer
 Architecture: iphoneos-arm
@@ -1746,7 +1764,7 @@ Description: Music Widget In Screen
 Name: WidPlayer
 Author: Sizar <sizarazad86@gmail.com>
 Icon: file:///Library/PreferenceBundles/WidPlayer.bundle/icon@2x.png
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.widplayer
+Depiction: http://sizu.gq/description.html?id=com.julioverne.widplayer
 
 Package: com.julioverne.wishdia
 Architecture: iphoneos-arm
@@ -1764,7 +1782,7 @@ Homepage: http://twitter.com/ijulioverne
 Description: Wish List For Cydia
 Name: WishDia
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.wishdia
+Depiction: http://sizu.gq/description.html?id=com.julioverne.wishdia
 
 Package: com.julioverne.ythdunlocker
 Architecture: iphoneos-arm
@@ -1782,7 +1800,7 @@ Homepage: http://twitter.com/ijulioverne
 Description: Unlocks HD Videos in YouTube App
 Name: YTHDUnlocker
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.ythdunlocker
+Depiction: http://sizu.gq/description.html?id=com.julioverne.ythdunlocker
 
 Package: com.julioverne.ytnoautoplay
 Architecture: iphoneos-arm
@@ -1800,7 +1818,7 @@ Homepage: http://twitter.com/ijulioverne
 Description: YouTube Disable Autoplay Videos
 Name: YTNoAutoPlay
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.ytnoautoplay
+Depiction: http://sizu.gq/description.html?id=com.julioverne.ytnoautoplay
 
 Package: com.julioverne.zaddyverifyroll
 Architecture: iphoneos-arm
@@ -1818,5 +1836,5 @@ Homepage: http://twitter.com/ijulioverne
 Description: Verify Account Photo via Camera Roll
 Name: ZaddyVerifyRoll
 Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://repo.sizu.gq/description.html?id=com.julioverne.zaddyverifyroll
+Depiction: http://sizu.gq/description.html?id=com.julioverne.zaddyverifyroll
 
