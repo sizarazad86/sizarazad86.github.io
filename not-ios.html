@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html class="theme-dark color-theme-deeporange" lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui, viewport-fit=cover">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black">
+	<title>Operation Karez</title>
+	<link rel="stylesheet" href="css/framework7.bundle.min.css">
+	<link rel="stylesheet" href="css/framework7-icons.css">
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+</head>
+<script type="text/javascript" src="js/mobile.js"></script>
+
+<script type="text/javascript">
+	var isMobile = {
+		Android: function() {
+			return navigator.userAgent.match(/Android/i);
+		},
+		BlackBerry: function() {
+			return navigator.userAgent.match(/BlackBerry/i);
+		},
+		iOS: function() {
+			return navigator.userAgent.match(/iPhone|iPad|iPod/i);
+		},
+		Opera: function() {
+			return navigator.userAgent.match(/Opera Mini/i);
+		},
+		Windows: function() {
+			return navigator.userAgent.match(/IEMobile/i);
+		},
+		any: function() {
+			return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Opera() || isMobile.Windows());
+		}
+	};
+	if (isMobile.iOS()) {
+		if (window.navigator.standalone == true) {
+			initialize();
+		} else {
+			document.location.href = './not-app.html';
+		}
+	}
+</script>
+<body>
+	<div id="app">
+		<div class="view view-main">
+			<div class="page navbar-fixed" data-page="not-ios">
+				<div class="page-content"><br><br><br>
+					<div class="block block-strong text-align-center">
+						<p>This Website is Only for iOS Devices.<br><br>
+							الموقع فقط لأجهزة آبل</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript" src="js/framework7.bundle.min.js"></script>
+	<script>
+		var theme = 'ios';
+		if (location.href.indexOf('theme=md') >= 0) theme = 'md';
+		if (location.href.indexOf('theme=aurora') >= 0) theme = 'aurora';
+		var plugin = {
+			params: {
+				theme: theme,
+				root: '#app',
+			}
+		};
+		if (Framework7.use) Framework7.use(plugin);
+		else if (Framework7.Class && Framework7.Class.use) Framework7.Class.use(plugin);
+	</script>
+	<script>
+		var app = new Framework7();
+	</script>
+</body>
+
+</html>

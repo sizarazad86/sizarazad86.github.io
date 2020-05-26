@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui, viewport-fit=cover">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black">
+	<title>My App</title>
+	<link rel="stylesheet" href="css/framework7.bundle.min.css">
+	<link rel="stylesheet" href="css/framework7-icons.css">
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+</head>
+
+<body>
+	<div id="app">
+		<div class="view view-main">
+			<div class="page">
+				<div class="navbar">
+					<div class="navbar-bg"></div>
+					<div class="navbar-inner">
+						<div class="left"></div>
+						<div class="title" id="name">Dialog</div>
+						<div class="right"></div>
+					</div>
+				</div>
+				<div class="page-content">
+					<div class="block block-strong">
+						<p class="row">
+							<button class="col button open-alert">Alert</button>
+							<button class="col button open-confirm">Confirm</button>
+							<button class="col button open-prompt">Prompt</button>
+						</p>
+						<p class="row">
+							<button class="col button open-login">Login</button>
+							<button class="col button open-password">Password</button>
+						</p>
+					</div>
+					<div class="block-title">Vertical Buttons</div>
+					<div class="block block-strong">
+						<p>
+							<button class="button open-vertical">Vertical Buttons</button>
+						</p>
+					</div>
+					<div class="block-title">Preloader Dialog</div>
+					<div class="block block-strong">
+						<p class="row">
+							<button class="col button open-preloader">Preloader</button>
+							<button class="col button open-preloader-custom">Custom Title</button>
+						</p>
+					</div>
+					<div class="block-title">Progress Dialog</div>
+					<div class="block block-strong">
+						<p class="row">
+							<button class="col button open-progress">Determined</button>
+							<button class="col button open-progress-infinite">Infinite</button>
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript" src="js/framework7.bundle.min.js"></script>
+	<script>
+		var theme = 'ios';
+		if (location.href.indexOf('theme=md') >= 0) theme = 'md';
+		if (location.href.indexOf('theme=aurora') >= 0) theme = 'aurora';
+		var plugin = {
+			params: {
+				theme: theme,
+				root: '#app',
+			}
+		};
+		if (Framework7.use) Framework7.use(plugin);
+		else if (Framework7.Class && Framework7.Class.use) Framework7.Class.use(plugin);
+	</script>
+	<script>
+		var app = new Framework7({
+//			dialog: {
+//				title: 'Information',
+//			},
+		});
+		var $$ = Dom7;
+		// Alert
+		$$('.open-alert').on('click', function() {
+			app.dialog.alert('Hello');
+		});
+
+		// Confirm
+		$$('.open-confirm').on('click', function(name, bundle, version, size) {
+			app.dialog.confirm('App Name: ' + name + '<br>Bundle Identifier: ' + bundle + '<br>Version: ' + version + '<br>Size: ' + size, 'Information', function() {
+				app.dialog.preloader('Installing...');
+					window.location="itms-services://?action=download-manifest&url=https://ios.sizu.gq/plists/addme.plist";
+				setTimeout(function() {
+					app.dialog.close();
+				}, 1000);
+			});
+		});
+	</script>
+</body>
+
+</html>
