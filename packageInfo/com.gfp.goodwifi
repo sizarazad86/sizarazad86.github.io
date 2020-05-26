@@ -1,9 +1,0 @@
-{
-	"name": "",
-	"desc_short": null,
-	"desc_long": "Wi-Fi增強器<br>-刪除RSSI限制；<br>-顯示已知網絡；<br>-顯示Mac地址；",
-	"compatitle": "iOS iOS 10 through 13",
-	"changelog": "<strong>0.0~beta5a</strong><br>- Initial Release.<br>",
-	"notes": "如您在本源下載任何插件提示收費或遇到收費才能下載，請先安裝本源的SwipeForMore插件，然後找到你要下載的插件，左滑安裝即可，不要點進去下載！由於本源大部分插件為正版，所以會提示這種現象！",
-	"open": true,
-}

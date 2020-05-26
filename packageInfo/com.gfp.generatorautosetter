@@ -1,9 +1,0 @@
-{
-	"name": "",
-	"desc_short": null,
-	"desc_long": "越獄時自動固定shsh<br>用法:setgenerator [generator]<br>如果您沒有更改數值，Generator Auto Setter會將0x1111111111111111設置為默認數值<br>僅支持Checkra1n，其它越獄工具不需要",
-	"compatitle": "iOS 13",
-	"changelog": "<strong>0.2.3</strong><br>- Initial Release.<br>",
-	"notes": "如您在本源下載任何插件提示收費或遇到收費才能下載，請先安裝本源的SwipeForMore插件，然後找到你要下載的插件，左滑安裝即可，不要點進去下載！由於本源大部分插件為正版，所以會提示這種現象！",
-	"open": true,
-}

@@ -1,9 +1,0 @@
-{
-	"name": "",
-	"desc_short": null,
-	"desc_long": "演奏時主動降噪，暫停時透明<br>暫停媒體時，Banana會自動將AirPods Pro聆聽模式切換為透明模式,恢復播放時切換到主動降噪",
-	"compatitle": "iOS 13",
-	"changelog": "<strong>1.1.1</strong><br>- Initial Release.<br>",
-	"notes": "如您在本源下載任何插件提示收費或遇到收費才能下載，請先安裝本源的SwipeForMore插件，然後找到你要下載的插件，左滑安裝即可，不要點進去下載！或點擊鏈接查看下載方法，由於本源大部分插件為正版，所以會提示這種現象！",
-	"open": true,
-}

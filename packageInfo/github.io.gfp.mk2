@@ -1,9 +1,0 @@
-{
-	"name": "",
-	"desc_short": null,
-	"desc_long": "AplAddict MK1 script for MK1 widgets.",
-	"compatitle": "iOS 13",
-	"changelog": "<strong>1.0</strong><br>- Initial Release.<br>",
-   "notes": "如您在本源下載任何插件提示收費或遇到收費才能下載，請先安裝本源的SwipeForMore插件，然後找到你要下載的插件，左滑安裝即可，不要點進去下載！由於本源大部分插件為正版，所以會提示這種現象！<br><br>If the system prompts that you need to pay money to download Tweaks from this source, or there is a payment sign on the right side of Tweaks, please install SwipeForMore Tweak in Repo, then find the Tweaks to download, and then swipe left to install, please do not directly click download!  Or click on Videos below to view the download method.  Since most of the plugins in this Repo are genuine, this phenomenon will be prompted!",
-	"open": true,
-}

@@ -1,8 +1,0 @@
-{
-	"name": "",
-	"desc_short": null,
-	"desc_long": "鎖定手機時，最後訪問通知中心<br><br>Get a last look at your Notification Center when you lock your phone!",
-	"compatitle": "iOS 12.0-later",
-   "screenshot": "<div style='text-align:center;'><img width=95% src='https://i.imgur.com/aEqeCIX.mp4;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/57GNPNe.mp4;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/g0Ni3Es.png;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/I24ZoJ7.png;'/></a><br></div>",
-	"open": true,
-}

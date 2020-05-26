@@ -1,9 +1,0 @@
-{
-	"name": "",
-	"desc_short": null,
-	"desc_long": "真正重新設計狀態欄<br>信號，Wifi元素的完整替代品<br>還帶來了與Juice＆鹼性和NiceBarX完全兼容的電池組<br>精心製作的電池組使您的電池排水和充電保持每個百分比<br>與alkaline，Juice，NiceBarX兼容<br>必需要Snowboard & Snowboard Status Bar extension擴展和Juice調整<br>注意-如果您要調整電池大小，則可以使用Juice調整大小Devy Status Bar V2<br>Truely Redesign Status Bar.<br><br>An complete replacement for Signal,Wifi Elements.<br>Also Brings Battery pack which completely compatible with Juice & alkaline & NiceBarX.<br>Battery pack crafted carefully maintaining your every percentage on Draining & Charging of battery.<br>Compatible with Alkaline,Juice,NiceBarX<br><br>Required tweaks<br>You can use snowboard or NiceBarX for applying Cellular and Wifi icons,if you want to use snowboard then must install snowboard status bar extension.For battery pack you need NiceBarX or juice tweak.<br><br>Note<br>If you want to resize battery then you'll be able to resize using Juice.<br>If you using NiceBarX to set cellular and Wifi then set Cellular_nb_10 & wifi_nb_10 option in NiceBarX settings.",
-	"compatitle": "iOS 13",
-	"screenshot": "<div style='text-align:center;'><img width=95% src='https://i.imgur.com/8DND9LR.png;'/></a><br></div>",
-	"notes": "如您在本源下載任何插件提示收費或遇到收費才能下載，請先安裝本源的SwipeForMore插件，然後找到你要下載的插件，左滑安裝即可，不要點進去下載！由於本源大部分插件為正版，所以會提示這種現象！<br><br>If the system prompts that you need to pay money to download Tweaks from this source, or there is a payment sign on the right side of Tweaks, please install SwipeForMore Tweak in Repo, then find the Tweaks to download, and then swipe left to install, please do not directly click download!  Or click on Videos below to view the download method.  Since most of the plugins in this Repo are genuine, this phenomenon will be prompted!",
-	"open": true,
-}

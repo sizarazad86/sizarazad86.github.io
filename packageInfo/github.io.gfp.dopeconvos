@@ -1,9 +1,0 @@
-{
-	"name": "",
-	"desc_short": null,
-	"desc_long": "SMS應用程序的無限定制<br><br>當前功能：<br>將大標題更改為所需的任何內容<br>更改大標題的顏色<br>更改整體TintColor<br>更改背景顏色<br>隱藏分隔符或更改其顏色<br>更改氣泡漸變顏色<br>更改氣泡文本顏色<br>去除泡泡尾巴<br>更改發件人姓名顏色<br>更改預覽文字的顏色<br>去除氣泡填充<br>Pin對話<br><br>Endless customization for SMS Application!!",
-	"compatitle": "iOS 13",
-	"screenshot": "<div style='text-align:center;'><img width=95% src='https://i.imgur.com/YTnXC6z.mp4;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/UKeEIgs.png;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/vnZ1aPI.png;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/Pn3JX95.png;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/fkL2uYM.png;'/></a><br></div>",
-	"notes": "如您在本源下載任何插件提示收費或遇到收費才能下載，請先安裝本源的SwipeForMore插件，然後找到你要下載的插件，左滑安裝即可，不要點進去下載！由於本源大部分插件為正版，所以會提示這種現象！<br><br>If the system prompts that you need to pay money to download Tweaks from this source, or there is a payment sign on the right side of Tweaks, please install SwipeForMore Tweak in Repo, then find the Tweaks to download, and then swipe left to install, please do not directly click download!  Or click on Videos below to view the download method.  Since most of the plugins in this Repo are genuine, this phenomenon will be prompted!",
-	"open": true,
-}

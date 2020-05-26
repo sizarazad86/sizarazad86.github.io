@@ -1,9 +1,0 @@
-{
-	"name": "",
-	"desc_short": null,
-	"desc_long": "AutoRedial<br><br>您應得的輕鬆生活<br>接收者持續忙於重撥時是否厭倦？自動重撥功能讓您滿意！<br>AutoRedial（自動重撥）允許您自動重撥呼叫，直到您的呼叫接通為止<br>它以一種非常優雅和現代的方式做到這一點。 您還可以配置自動重撥之間的延遲時間<br>僅當您撥打電話並且在忙音後自動斷開連接時，此調整才有效。如果您想將其用於繁忙的線路，請不要使用此調整，此調整將不適用於該你<br>AutoRedial<br>The Easy Life You Deserve<br>Tired of Redialing when receiver is continually busy? AutoRedial got you covered! AutoRedial allows you to redial calls automatically till your call get connected. It does this in an extremely elegant and modern way. You can also configure delay time between autoredials.<br>This tweak will only work if you dialed a call and that get disconnected automatically after getting busy tone. Don't buy this tweak if you want to use it for busy lines this tweak will not work for that.",
-	"compatitle": "iOS 12.4-later",
-    "screenshot": "<div style='text-align:center;'><img width=95% src='https://i.imgur.com/P77iyP1.jpg;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/lOnzBmC.png;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/XeqqJUQ.png;'/></a><br></div>",
-	"open": true,
-}
-

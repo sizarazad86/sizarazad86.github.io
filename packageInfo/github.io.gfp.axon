@@ -1,8 +1,0 @@
-{
-	"name": "",
-	"desc_short": null,
-	"desc_long": "在鎖定屏幕上分組和查看未讀通知<br><br>Group and view unread notifications on the lock screen.",
-	"compatitle": "iOS 13",
-   "screenshot": "<div style='text-align:center;'><img width=95% src='https://i.imgur.com/AnocIk3.jpg;'/></a><br></div>",
-	"open": true,
-}
