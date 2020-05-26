@@ -1,0 +1,10 @@
+{
+	"name": "",
+	"desc_short": null,
+	"desc_long": "Audicy是一個用Swift徹底重寫的iOS應用，可讓您瀏覽整個設備並將任何受支持的音頻和視頻添加到音樂應用，視頻應用，鈴聲，播客，相機膠卷……而無需依賴iTunes或 連接到Mac或PC<br><br>Audicy is an iOS app completely rewritten in Swift that allows you to browse the entire device and add any supported audio and video to music apps, video apps, ringtones, podcasts, camera rolls ... without relying on iTunes or connected  Mac or PC",
+	"compatitle": "iOS 13",
+	"changelog": "<strong>2.0.2</strong><br>- Initial Release.<br>",
+	"screenshot": "<div style='text-align:center;'><img width=95% src='https://i.imgur.com/lSKUpTk.jpg;'/></a><br></div>",
+	"notes": "如您在本源下載任何插件提示收費或遇到收費才能下載，請先安裝本源的SwipeForMore插件，然後找到你要下載的插件，左滑安裝即可，不要點進去下載！由於本源大部分插件為正版，所以會提示這種現象！<br><br>If the system prompts that you need to pay money to download Tweaks from this source, or there is a payment sign on the right side of Tweaks, please install SwipeForMore Tweak in Repo, then find the Tweaks to download, and then swipe left to install, please do not directly click download!  Or click on Videos below to view the download method.  Since most of the plugins in this Repo are genuine, this phenomenon will be prompted!",
+	"open": true,
+}

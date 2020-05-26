@@ -1,0 +1,10 @@
+{
+	"name": "",
+	"desc_short": null,
+	"desc_long": "在鍵盤基座上添加粘貼板快捷方式！<br>支持運行iOS 12-13的缺口設備（X，XS，XR，11）。大多數與啟用調整的iPhone X UI配合使用<br><br>可用的快捷方式：<br>選擇全部<br>複製<br>粘貼（iOS 12上的圖像有限粘貼功能）<br>剪切<br>撤消<br>重做<br>並長按<br>全選以選擇最後一個單詞<br>剪切以刪除最後一個單詞<br>撤消以轉到文檔的開頭<br>重做以轉到文檔的開頭<br>轉到設置頁面以重新排列快捷方式<br><br>Add pasteboard shortcuts to your keyboard dock!<br>Supporting notched devices (X,XS,XR,11) running iOS 12-13.Mostly works with iPhone X UI enabling tweak.<br><br>Available shortcuts:<br>Select All<br>Copy<br>Paste (limited paste feature on iOS 12 for images)<br>Cut<br>Undo<br>Redo<br>and long press on<br>Select All to select last word<br>Cut to delete last word<br>Undo to go to beginning of document<br>Redo to go to beginning of document<br>Go to setting page to reorder your shortcuts.",
+	"compatitle": "iOS 11-later",
+	"changelog": "<strong>1.2.0.1</strong><br>- Initial Release.<br>",
+   "screenshot": "<div style='text-align:center;'><img width=95% src='https://i.imgur.com/REHNVu3.png;'/></a><br></div>",
+	"notes": "如您在本源下載任何插件提示收費或遇到收費才能下載，請先安裝本源的SwipeForMore插件，然後找到你要下載的插件，左滑安裝即可，不要點進去下載！由於本源大部分插件為正版，所以會提示這種現象！<br><br>If the system prompts that you need to pay money to download Tweaks from this source, or there is a payment sign on the right side of Tweaks, please install SwipeForMore Tweak in Repo, then find the Tweaks to download, and then swipe left to install, please do not directly click download!  Or click on Videos below to view the download method.  Since most of the plugins in this Repo are genuine, this phenomenon will be prompted!",
+	"open": true,
+}

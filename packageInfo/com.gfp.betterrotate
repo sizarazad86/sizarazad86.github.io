@@ -1,0 +1,10 @@
+{
+	"name": "",
+	"desc_short": null,
+	"desc_long": "SmartRotate使您可以控制方向鎖定<br>SmartRotate添加了擴展菜單，您可以選擇啟用智能鎖定，將視頻從方向鎖定中排除<br>SmartRotate還允許您通過設置從方向鎖定中排除特定應用",
+	"compatitle": "iOS 13",
+	"changelog": "<strong>1.3.6</strong><br>- Initial Release.<br>",
+	"screenshot": "<div style='text-align:center;'><img width=95% src='https://i.imgur.com/CT3SKMc.png;'/></a><br></div>",
+	"notes": "如您在本源下載任何插件提示收費或遇到收費才能下載，請先安裝本源的SwipeForMore插件，然後找到你要下載的插件，左滑安裝即可，不要點進去下載！或點擊鏈接查看下載方法，由於本源大部分插件為正版，所以會提示這種現象！",
+	"open": true,
+}

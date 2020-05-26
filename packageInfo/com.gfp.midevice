@@ -1,0 +1,10 @@
+{
+	"name": "",
+	"desc_short": null,
+	"desc_long": "MiDevice是SpringBoard的一項自定義調整，可讓您隨意設置設備<br>自定義圖標佈局<br>調整主屏幕圖標的大小<br>隱藏標籤<br>隱藏圖示<br>彩色UI元素<br>隱藏其他物品<br>和更多",
+	"compatitle": "iOS 13",
+	"changelog": "<strong>2.0.0-3</strong><br>- Initial Release.<br>",
+	"screenshot": "<div style='text-align:center;'><img width=95% src='https://i.imgur.com/hU78mc3.jpg;'/></a><br></div>",
+	"notes": "如您在本源下載任何插件提示收費或遇到收費才能下載，請先安裝本源的SwipeForMore插件，然後找到你要下載的插件，左滑安裝即可，不要點進去下載！由於本源大部分插件為正版，所以會提示這種現象！",
+	"open": true,
+}

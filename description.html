@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Description</title>
+	<link rel='stylesheet' type='text/css' href='main.css' />
+	<meta name='viewport' content='width=320; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;' />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<script src="jquery1.js"></script>
+<script src="info.js"></script>
+
+<body onload="loadPackageInfo();loadRecentUpdates();">
+	<span id="showAddRepo_" hidden>
+		<h2>GuoFenPai's Repo</h2>
+		<ul>
+			<li><a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://guofenpai.github.io/repo/"><img class="icon" src="cydia7.png" /><label>Open Cydia</label></a></li>
+		</ul>
+	</span>
+	<p style="text-align:center;" id="showAddRepoUrl_" hidden>Repo: https://guofenpai.github.io/repo/</p>
+	<span id="desc_long_" hidden>
+		<h1></h1>
+		<ul>
+			<li>
+				<p id="desc_long"></p>
+			</li>
+		</ul>
+	</span>
+	<span id="screenshot_" hidden>
+		<h1></h1>
+		<ul>
+			<li>
+				<p id="screenshot"></p>
+			</li>
+		</ul>
+	</span>
+	<span id="is_open_source_" hidden>
+		<h1 id="name" hidden></h1>
+		<ul style="background:#FF7F50">
+			<center>
+				<li>
+					<p>Created by GuoFenPai</p>
+				</li>
+			</center>
+		</ul>
+	</span>
+	<p style="text-align:center;">果粉派 © 2020</p>
+</body>
+
+</html>

@@ -1,0 +1,10 @@
+{
+	"name": "",
+	"desc_short": null,
+	"desc_long": "Bring interactive dismiss gesture on the whole screen to all apps!<br><br>Do you enjoy the swipe back gesture to dismiss current view,which we can use in apps like Facebook,Twitter,Apollo,…? PanCake brings this gesture to ALL of your apps,including stock ones and the ones from App Store！<br><br>Without PanCake,you can swipe back to go to previous screen by swiping from the left edge of the screen to the right.With PanCake,you can do this gesture without having to start from the edge,which is way more convenient!<br><br>Blacklist apps:<br><br>Some apps may have conflicting gestures.For example,in Spotify,swiping from Left to Right on a song name will allow you to add the song to the queue.That's why I've added a blacklist where you can select apps in which you want the gesture disabled.I've also already added some apps in blacklist default list,because they already have this gesture implemented natively.<br><br>Haptic Feedback:<br><br>Add a nice Haptic Feedback on dismiss end.Try it,you'll love how it feels.<br><br>It also supports phone with Right to Left layout, so people with RTL are not left away!",
+	"compatitle": "iOS 13",
+	"changelog": "<strong>1.1</strong><br>- Initial Release.<br>",
+   "screenshot": "<div style='text-align:center;'><img width=95% src='https://i.imgur.com/i7ihjcQ.mp4;'/></a><br></div>",
+   "notes": "如您在本源下載任何插件提示收費或遇到收費才能下載，請先安裝本源的SwipeForMore插件，然後找到你要下載的插件，左滑安裝即可，不要點進去下載！由於本源大部分插件為正版，所以會提示這種現象！<br><br>If the system prompts that you need to pay money to download Tweaks from this source, or there is a payment sign on the right side of Tweaks, please install SwipeForMore Tweak in Repo, then find the Tweaks to download, and then swipe left to install, please do not directly click download!  Or click on Videos below to view the download method.  Since most of the plugins in this Repo are genuine, this phenomenon will be prompted!",
+	"open": true,
+}

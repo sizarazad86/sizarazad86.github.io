@@ -1,0 +1,9 @@
+{
+	"name": "",
+	"desc_short": null,
+	"desc_long": "支持unc0ver/Chimera越獄的A12/X及以下版本/ Bi兼容！<br><br>YouTube工具為日常的YouTube用戶帶來了所有必要的補丁。<br><br>某些功能包括背景可播放性，選擇超過3G/4G的質量，沒有廣告，禁用雙擊來賓功能，禁用相關/建議的視頻彈出窗口，沒有年齡限制等等。<br><br>許多功能正在開發中/預期中，並將在以後更新！<br><br>從設置中配置選項<br><br>Supports A12/X devices and below/Bi-compatible with unc0ver/Chimera jailbreaks!<br><br>YouTube tools brings all the necessary patches needed for the daily YouTube user.<br><br>Some features include background playability,choose quality over 3G/4G,no advertisements, disable double tap guesture,disable related/suggested video pop up,no age restriction and many more.<br><br>A lot more features are in the works/expected and will be available within following updates!<br><br>Configure options from Settings.",
+	"compatitle": "iOS 13",
+	"changelog": "<strong>4.0</strong><br>- Initial Release.<br>",
+	"notes": "如您在本源下載任何插件提示收費或遇到收費才能下載，請先安裝本源的SwipeForMore插件，然後找到你要下載的插件，左滑安裝即可，不要點進去下載！由於本源大部分插件為正版，所以會提示這種現象！<br><br>If the system prompts that you need to pay money to download Tweaks from this source, or there is a payment sign on the right side of Tweaks, please install SwipeForMore Tweak in Repo, then find the Tweaks to download, and then swipe left to install, please do not directly click download!  Or click on Videos below to view the download method.  Since most of the plugins in this Repo are genuine, this phenomenon will be prompted!",
+	"open": true,
+}

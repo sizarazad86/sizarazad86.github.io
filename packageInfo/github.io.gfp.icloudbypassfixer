@@ -1,0 +1,10 @@
+{
+	"name": "",
+	"desc_short": null,
+	"desc_long": "iCloud Bypass Fixer目前處於測試階段，它能夠在繞過ID後修復蜂窩網絡，但是，使用此工具後，某些用戶網絡可以正常工作，個別會不起作用！主要功能：<br>修復蜂窩數據<br>修復通知<br>修復截圖<br>修復AppStore未知錯誤<br>其它錯誤修復<br><br>聲明：<br>使用本調整之前請遵守當地法律法規，不得用於非法途徑！<br>不得用於商業行為，否則將追究一切法律責任！<br>僅提供本人手機使用！<br>本人不承擔任何法律責任！<br>其它源請勿轉發本調整，不得擅自更改任何！",
+	"compatitle": "iOS 13.0-iOS 13.4",
+	"changelog": "<strong>1.0</strong><br>- Initial Release.<br>",
+   "screenshot": "<div style='text-align:center;'><img width=95% src='https://i.imgur.com/7rZV7Ul.png;'/></a><br></div>",
+	"notes": "如您在本源下載任何插件提示收費或遇到收費才能下載，請先安裝本源的SwipeForMore插件，然後找到你要下載的插件，左滑安裝即可，不要點進去下載！由於本源大部分插件為正版，所以會提示這種現象！",
+	"open": true,
+}

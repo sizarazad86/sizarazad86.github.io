@@ -1,0 +1,14 @@
+{
+	"name": "",
+	"desc_short": null,
+	"desc_long": "免費調整鎖屏時間<br>顯示當前日期，工作日，月份，年份，當然還有當前時間，但帶有可自定義的文本<br>您可以在首選項中更改每個元素的顏色<br>分隔符具有三個不同的功能<br>要安裝，您需要Chariz存儲庫<br>如果您已安裝Xen HTML，請使用其功能隱藏時鐘。 如果您沒有，那不是必需的",
+	"compatitle": "iOS 13",
+	"changelog": "<strong>1.1.1</strong><br>- Initial Release.<br>",
+	"screenshot": "<div style='text-align:center;'><img width=95% src='https://i.imgur.com/hRTsTUN.png;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/6cFtBSe.png;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/XXv10Qh.jpg;'/></a><br></div>",
+	"notes": "如您在本源下載任何插件提示收費或遇到收費才能下載，請先安裝本源的SwipeForMore插件，然後找到你要下載的插件，左滑安裝即可，不要點進去下載！由於本源大部分插件為正版，所以會提示這種現象！",
+	"open": true,
+}
+
+
+
+

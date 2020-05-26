@@ -1,0 +1,10 @@
+{
+	"name": "",
+	"desc_short": null,
+	"desc_long": "HomePlus是一個動態佈局引擎，可實時更新更改。它是從頭開始構建的，具有純淨的體驗和UI。它還方便地構建了iOS 13支持<br><br>HomePlus仍處於積極，快速的開發中。老實說，我還沒有為項目初期的大量用戶做好準備。我會繼續努力，使它變得更好，但我不能保證它會在您的設備上完美運行。需要時間。請耐心等待，我們一起可以創造出很棒的東西<br><br>HomePlus is a dynamic layout engine that updates changes in real time.It was built from the ground up with a clean experience and UI in mind.It was also,conveniently,built with iOS 13 support in mind.<br><br>HomePlus is still in active,rapid development.I was honestly not prepared for this volume of users this early on in the project.I will continue to work and make this better,but I cannot guarantee it will work perfectly on your device yet.Good work takes time.Please be patient,and together we can build something great",
+	"compatitle": "iOS 13",
+	"changelog": "<strong>0.4.9.2-beta</strong><br>- Initial Release.<br>",
+	"screenshot": "<div style='text-align:center;'><img width=95% src='https://i.imgur.com/Jk3UKGk.jpg;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/6pjoMA3.jpg;'/></a><br></div>",
+	"notes": "如您在本源下載任何插件提示收費或遇到收費才能下載，請先安裝本源的SwipeForMore插件，然後找到你要下載的插件，左滑安裝即可，不要點進去下載！由於本源大部分插件為正版，所以會提示這種現象！<br><br>If the system prompts that you need to pay money to download Tweaks from this source, or there is a payment sign on the right side of Tweaks, please install SwipeForMore Tweak in Repo, then find the Tweaks to download, and then swipe left to install, please do not directly click download!  Or click on Videos below to view the download method.  Since most of the plugins in this Repo are genuine, this phenomenon will be prompted!",
+	"open": true,
+}

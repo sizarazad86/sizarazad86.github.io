@@ -1,0 +1,11 @@
+{
+	"name": "",
+	"desc_short": null,
+	"desc_long": "AirPay<br>Apple Pay受AirPod的啟發重新設計。如果您每天使用Apple Pay並在iOS設備上尋找時尚統一的東西，那麼您來對地方了。<br><br>功能<br>暗/亮模式<br>自定義背景色<br>添加邊框顏色<br>更改文本顏色<br>兼容iOS 13<br>iOS 12（已在XS Max上進行測試）<br>iPhone 6S，6S Plus，7、7 Plus， 8，8 Plus，X，XR，XS，XS Max，11，11 Pro和11 Pro Max（與SE不兼容）
+<br><br>已知問題<br>您不能使用按鈕通過密碼付款（我需要找到一種更好的方法來將按鈕置於字形下方）<br><br>AirPay<br>Apple Pay reimagined inspired by AirPod.If you use Apple Pay on daily basis and looking for something stylish and uniform on your iOS device then you have come to the right place.<br><br>Features<br>Dark/Light Mode<br>Customize the background color<br>Add border color<br>Change text color<br><br>Compatible<br>iOS 13<br>iOS 12 (Has been tested on XS Max)<br>iPhone 6S,6S Plus,7,7 Plus,8,8 Plus,X,XR,XS,XS Max,11,11 Pro and 11 Pro Max(Not compatible with SE)<br><br>Known issues<br>You can't use button to pay with passcode(I will need to find a better method to bring button below the glyph)",
+	"compatitle": "iOS 13",
+	"changelog": "<strong>1.0</strong><br>- Initial Release.<br>",
+   "screenshot": "<div style='text-align:center;'><img width=95% src='https://i.imgur.com/8Pk40nC.mp4;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/MIfce4P.jpg;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/6RYRVKh.jpg;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/LVSRJKK.jpg;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/2090GXt.jpg;'/></a><br></div>",
+   "notes": "如您在本源下載任何插件提示收費或遇到收費才能下載，請先安裝本源的SwipeForMore插件，然後找到你要下載的插件，左滑安裝即可，不要點進去下載！由於本源大部分插件為正版，所以會提示這種現象！<br><br>If the system prompts that you need to pay money to download Tweaks from this source, or there is a payment sign on the right side of Tweaks, please install SwipeForMore Tweak in Repo, then find the Tweaks to download, and then swipe left to install, please do not directly click download!  Or click on Videos below to view the download method.  Since most of the plugins in this Repo are genuine, this phenomenon will be prompted!",
+	"open": true,
+}

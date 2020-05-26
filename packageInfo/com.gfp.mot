@@ -1,0 +1,10 @@
+{
+	"name": "",
+	"desc_short": null,
+	"desc_long": "適用於所有運行iOS 12和iOS 13的iPhone和iPad型號<br>Mot讓您無需打開任何應用程序即可查找今天或任何其他日子的天氣情況<br>特徵<br>當前天氣預報<br>每天，每小時和每分鐘的天氣<br>當前位置或手動位置支持<br>雨水警報信息<br>降雪警報信息<br>單位<br>美麗的收合模式<br>深色和淺色背景模式",
+	"compatitle": "iOS 13",
+	"changelog": "<strong>1.0.1</strong><br>- Initial Release.<br>",
+	"screenshot": "<div style='text-align:center;'><img width=95% src='https://i.imgur.com/GMD6ReW.jpg;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/XFcNGqi.jpg;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/rLRl6PR.jpg;'/></a><br></div>",
+	"notes": "如您在本源下載任何插件提示收費或遇到收費才能下載，請先安裝本源的SwipeForMore插件，然後找到你要下載的插件，左滑安裝即可，不要點進去下載！由於本源大部分插件為正版，所以會提示這種現象！",
+	"open": true,
+}

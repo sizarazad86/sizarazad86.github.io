@@ -1,0 +1,9 @@
+{
+	"name": "",
+	"desc_short": null,
+	"desc_long": "解鎖聲音將設備解鎖聲音帶回到iOS。 您可以在“設置”應用中啟用/禁用該調整，甚至使用自定義解鎖聲音",
+	"compatitle": "iOS 13",
+	"changelog": "<strong>1.2.11</strong><br>- Initial Release.<br>",
+	"notes": "如您在本源下載任何插件提示收費或遇到收費才能下載，請先安裝本源的SwipeForMore插件，然後找到你要下載的插件，左滑安裝即可，不要點進去下載！由於本源大部分插件為正版，所以會提示這種現象！",
+	"open": true,
+}

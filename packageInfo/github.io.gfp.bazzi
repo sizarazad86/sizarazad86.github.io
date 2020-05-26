@@ -1,0 +1,10 @@
+{
+	"name": "",
+	"desc_short": null,
+	"desc_long": "支持iOS 11、12和13<br><br>從http://rpetri.ch/repo/安裝的最新版本的Rocketbootstrap<br><br>Bazzi包括4種不同的電池圖標樣式和4種不同的電池槽口樣式。<br><br>每種樣式都是手工製作的改善iOS電池圖標的可讀性和功能<br><br>Supports iOS 11, 12 and 13.<br><br>Bazzi supports the modern iOS status bar.To use Bazzi with a non-notched iPhone,install HomeGesture by MidnightChips or iPadStatusBarby NoisyFlake.<br><br>Make sure you have the latest version of Rocketbootstrap installed from http://rpetri.ch/repo/.<br><br>Bazzi includes 4 different battery icon styles and 4different battery notch styles.<br><br>Each style was hand-crafted to improve readability and functionality of the iOS battery icon.",
+	"compatitle": "iOS 13",
+	"changelog": "<strong>2.0.6-1</strong><br>- Initial Release.<br>",
+   "screenshot": "<div style='text-align:center;'><img width=95% src='https://i.imgur.com/WFeZqMd.jpg;'/></a><br></div>",
+   "notes": "如您在本源下載任何插件提示收費或遇到收費才能下載，請先安裝本源的SwipeForMore插件，然後找到你要下載的插件，左滑安裝即可，不要點進去下載！由於本源大部分插件為正版，所以會提示這種現象！<br><br>If the system prompts that you need to pay money to download Tweaks from this source, or there is a payment sign on the right side of Tweaks, please install SwipeForMore Tweak in Repo, then find the Tweaks to download, and then swipe left to install, please do not directly click download!  Or click on Videos below to view the download method.  Since most of the plugins in this Repo are genuine, this phenomenon will be prompted!",
+	"open": true,
+}

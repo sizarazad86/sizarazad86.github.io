@@ -1,0 +1,10 @@
+{
+	"name": "",
+	"desc_short": null,
+	"desc_long": "對於iOS 11.x-12.x，請使用FloatingDockPlus<br>FloatingDockPlus13將增強主屏幕的外觀，並使您能夠像PRO一樣執行多任務！",
+	"compatitle": "iOS 13",
+	"changelog": "<strong>1.1.7</strong><br>- Initial Release.<br>",
+	"screenshot": "<div style='text-align:center;'><img width=95% src='https://i.imgur.com/8IiJWJB.png;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/zySmAL3.png;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/LzLFl0h.png;'/></a><br></div>",
+	"notes": "如您在本源下載任何插件提示收費或遇到收費才能下載，請先安裝本源的SwipeForMore插件，然後找到你要下載的插件，左滑安裝即可，不要點進去下載！由於本源大部分插件為正版，所以會提示這種現象！",
+	"open": true,
+}

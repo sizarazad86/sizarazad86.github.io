@@ -1,0 +1,8 @@
+{
+	"name": "",
+	"desc_short": null,
+	"desc_long": "TransparentNotif通過使大型透明的通知橫幅透明並允許用戶執行以下操作來清除它們<br>僅在鎖屏上具有透明度<br>僅在SpringBoard上具有透明度<br>逐步調整通知橫幅的不透明度<br>將通知的文字顏色更改為白色<br>將通知的文字顏色更改為黑色<br>隱藏應用名稱<br>隱藏抵達時間<br>在鎖定屏幕上隱藏無較早的通知文本<br>在鎖屏上隱藏庫存充電指示燈<br><br>這些選項可在設置應用中進行配置，除非另有說明，否則確實需要重新加載才能生效<br><br>TransparentNotif cleans up the large,obtrusive notification banners by making them transparent and allowing users to:<br>Choose location of transparency effect<br>Adjust notification banner opacity incrementally<br>Change color of notification content to black or white<br>Hide the app name<br>Hide the time of arrival<br>Hide the No older notifications text on the lockscreen<br>Hide the stock charging indicator on the lockscreen<br>These options are configurable from within the settings app and DO require a respring in order to take effect.",
+	"compatitle": "iOS 11-13",
+	"screenshot": "<div style='text-align:center;'><img width=95% src='https://i.imgur.com/HXCdrou.jpg;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/xJcPal8.jpg;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/zUmp21C.jpg;'/></a><br></div>",
+	"open": true,
+}

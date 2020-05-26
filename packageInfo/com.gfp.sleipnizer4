@@ -1,0 +1,11 @@
+{
+	"name": "",
+	"desc_short": null,
+	"desc_long": "方便快捷的手勢瀏覽<br>Sleipnizer允許您通過手勢和有用的功能來調用瀏覽器操作<br><br>手勢：<br>-字母（如鼠標手勢）<br>- 拉<br>-點擊<br>-ActionPanel<br>-3D觸控<br>-激活器（可選，不依賴）<br><br>動作：<br>-關閉/移動標籤<br>-創建新標籤<br>-標籤暴露<br>-焦點搜索欄<br>-重新加載<br>-停止加載<br>-後退前進<br>-彈出/轉發歷史<br>-滾動到頂部/底部<br>-顯示書籤面板<br>-顯示動作面板<br>-FindOnPage<br>-添加到ReadingList<br>-切換私人模式<br>-切換閱讀器模式<br>-RequestDesktopSite<br>-恢復上一個關閉的標籤頁<br>-退出應用<br>-運行JavaScript（書籤）<br><br>特徵：<br>-OpenTabBG（在不顯示操作表的情況下在後台打開新標籤頁）<br>-標籤計數標籤<br>-禁用智能橫幅<br>-自動閱讀器模式（<iOS 13）<br>-在新標籤頁上自動顯示鍵盤<br>-無限庫存最近關閉了標籤頁<br>-顯示長按菜單以獲取書籤/閱讀列表/歷史鏈接（<iOS 13）<br>-禁用全屏",
+	"compatitle": "iOS 13.4",
+	"changelog": "<strong>10.1</strong><br>- Initial Release.<br>",
+	"screenshot": "<div style='text-align:center;'><img width=95% src='https://i.imgur.com/0Lu3MDo.jpg;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/E9niDji.jpg;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/EY9Gydj.jpg;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/m6yesxG.jpg;'/></a><br></div>",
+	"notes": "如您在本源下載任何插件提示收費或遇到收費才能下載，請先安裝本源的SwipeForMore插件，然後找到你要下載的插件，左滑安裝即可，不要點進去下載！由於本源大部分插件為正版，所以會提示這種現象！",
+	"open": true,
+}
+

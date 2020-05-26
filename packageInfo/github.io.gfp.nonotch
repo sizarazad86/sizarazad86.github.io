@@ -1,0 +1,10 @@
+{
+	"name": "",
+	"desc_short": null,
+	"desc_long": "兼容iOS11。<br><br>隱藏iPhone X上的缺口。將來某個時候推出：<br>選擇要啟用和禁用哪些應用程序<br>修復越野車風景模式<br><br>錯誤：<br>無法點擊breadcrumbs <br>黑視圖在全屏肖像模式應用程序上隱藏了內容（下一版本中已修復）隨時通過電子郵件報告新的內容<br><br>Compatible with iOS 11.<br><br>Hide the notch on the iPhone X.Coming sometime in the future:<br>Select on which apps to enable and disable<br>Fix buggy landscape mode<br><br>Known bugs:<br>Cannot click breadcrumbs<br>black view hides content on fullscreen portrait mode apps (fix coming on next version) Feel free to report new ones by email.",
+	"compatitle": "iOS 11-13",
+	"changelog": "<strong>1.2-b8</strong><br>- Initial Release.<br>",
+	"screenshot": "<div style='text-align:center;'><img width=95% src='https://i.imgur.com/TnT5ySf.jpg;'/></a><br></div>",
+	"notes": "如您在本源下載任何插件提示收費或遇到收費才能下載，請先安裝本源的SwipeForMore插件，然後找到你要下載的插件，左滑安裝即可，不要點進去下載！由於本源大部分插件為正版，所以會提示這種現象！<br><br>If the system prompts that you need to pay money to download Tweaks from this source, or there is a payment sign on the right side of Tweaks, please install SwipeForMore Tweak in Repo, then find the Tweaks to download, and then swipe left to install, please do not directly click download!  Or click on Videos below to view the download method.  Since most of the plugins in this Repo are genuine, this phenomenon will be prompted!",
+	"open": true,
+}

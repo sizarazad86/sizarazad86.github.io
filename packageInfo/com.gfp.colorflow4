@@ -1,0 +1,10 @@
+{
+	"name": "",
+	"desc_short": null,
+	"desc_long": "支持iOS 11-12.4<br>對於iOS 13，請下載ColorFlow 5（iOS 13）<br>為您的音樂增色！ ColorFlow將UI與您的音樂專輯插圖進行匹配<br>ColorFlow 4適用於以下“正在播放”視圖：<br>在鎖定屏幕上（並為支持該功能的應用添加隨機播放和重複播放按鈕）<br>音樂應用：<br>在Spotify應用中<br>ColorFlow 4支持所有iOS 11-12.4設備，包括iPhone，iPad和iPod<br>（在Spotify v8.4.67上測試）",
+	"compatitle": "iOS 11，iOS 12.4",
+	"changelog": "<strong>1.3.6</strong><br>- Initial Release.<br>",
+	"screenshot": "<div style='text-align:center;'><img width=95% src='https://i.imgur.com/tcqkwci.png;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/SrHkoVB.png;'/></a><br></div>",
+	"notes": "如您在本源下載任何插件提示收費或遇到收費才能下載，請先安裝本源的SwipeForMore插件，然後找到你要下載的插件，左滑安裝即可，不要點進去下載！或點擊鏈接查看下載方法，由於本源大部分插件為正版，所以會提示這種現象！",
+	"open": true,
+}

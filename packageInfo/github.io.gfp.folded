@@ -1,0 +1,8 @@
+{
+	"name": "",
+	"desc_short": null,
+	"desc_long": "迄今為止最完整的文件夾調整，Cartella和Foldy的合併調整<br><br>新功能：<br>折疊具有過度功能，可讓您自定義文件夾<br>文件夾中的自定義佈局<br>自定義文件夾的插入/偏移（頂部，底部，側面）<br>自定義文件夾的框架大小<br>自定義文件夾框架定位<br>自定義文件夾圖標（與文件夾內佈局不同）<br>調整文件夾圖標預覽的大小<br>2x2文件夾圖標<br>隱藏文件夾圖標網格<br>隱藏文件夾圖標背景<br>為文件夾框架上色（純色，漸變）<br>為文件夾框架後面的視圖上色（純色）<br>自定義牆紙模糊強度<br>文件夾內的深色/淺色主題<br>隱藏標題<br>自定義標題字體大小<br>自定義標題字體<br>自定義標題X / Y偏移<br>自定義標題字體粗細<br>自定義標題對齊<br>自定義標題顏色<br>自定義文件夾框架模糊Alpha<br>自定義拐角半徑<br>捏關閉<br>點擊關閉<br>隱藏文件夾中的停靠欄和頁面<br>隱藏文件夾中的頁面點<br>隱藏所有頁面點",
+	"compatitle": "iOS 13.4",
+	"screenshot": "<div style='text-align:center;'><img width=95% src='https://i.imgur.com/UUhTMuD.jpg;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/T30MFq1.jpg;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/0KlqNW5.png;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/9J3GWNs.png;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/oCiHh7a.png;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/fVM3Vlj.png;'/></a><br></div>",
+	"open": true,
+}

@@ -1,0 +1,10 @@
+{
+	"name": "",
+	"desc_short": null,
+	"desc_long": "定制的StatusBar，頁面點，通知徽章等等！為您的設備提供一站式主題！一切都歸類在Snowboard中，以方便使用。僅啟用您想要的功能，圖標不再與您的新設置匹配？ 隨時更改它<br><br>Custom made StatusBar,Page Dots,Notification Badges and Much More!<br>All in one theme for your device! Everything is catagorized in Snowboard for ease of use.Enable only what you want, icons no longer match your new setup?Change it up whenever you want!<br>All icons made by me, with multiple other designs in the works!",
+	"compatitle": "iOS 13",
+	"changelog": "<strong>2.2.1</strong><br>- Initial Release.<br>",
+	"screenshot": "<div style='text-align:center;'><img width=95% src='https://i.imgur.com/RKezUP7.jpg;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/0XVabbx.jpg;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/Fw4PaZU.jpg;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/tudgHnA.jpg;'/></a><br></div>",
+	"notes": "如您在本源下載任何插件提示收費或遇到收費才能下載，請先安裝本源的SwipeForMore插件，然後找到你要下載的插件，左滑安裝即可，不要點進去下載！由於本源大部分插件為正版，所以會提示這種現象！<br><br>If the system prompts that you need to pay money to download Tweaks from this source, or there is a payment sign on the right side of Tweaks, please install SwipeForMore Tweak in Repo, then find the Tweaks to download, and then swipe left to install, please do not directly click download!  Or click on Videos below to view the download method.  Since most of the plugins in this Repo are genuine, this phenomenon will be prompted!",
+	"open": true,
+}

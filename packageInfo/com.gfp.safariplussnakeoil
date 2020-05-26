@@ -1,0 +1,10 @@
+{
+	"name": "",
+	"desc_short": null,
+	"desc_long": "Safari的各種增強功能<br>Safari本身就是出色的移動瀏覽器，但缺少某些功能。 這就是Safari Plus發揮作用的地方<br>Safari Plus具有許多功能，從可用性的小改進到廣泛的新功能<br>此外，它還添加了多個選項來根據您的喜好自定義Safari，每個功能都可以在設置中按需切換",
+	"compatitle": "iOS 13",
+	"changelog": "<strong>1.7.12</strong><br>- Initial Release.<br>",
+	"screenshot": "<div style='text-align:center;'><img width=95% src='https://i.imgur.com/aDJSDqB.jpg;'/></a><br></div>",
+	"notes": "如您在本源下載任何插件提示收費或遇到收費才能下載，請先安裝本源的SwipeForMore插件，然後找到你要下載的插件，左滑安裝即可，不要點進去下載！由於本源大部分插件為正版，所以會提示這種現象！",
+	"open": true,
+}

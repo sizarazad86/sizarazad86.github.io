@@ -1,0 +1,10 @@
+{
+	"name": "",
+	"desc_short": null,
+	"desc_long": "為運行iOS 13的設備帶來iPhone X功能及更多功能<br>功能：<br>iPhone X家庭和多任務手勢<br>iPhone X和iPad狀態欄樣式<br>電池圖標中的電池百分比<br>隱藏控制中心中的狀態欄<br>iPhone X鍵盤<br>鎖屏快捷方式<br>圓角，基座和切換器<br>人臉ID動畫<br>減少主屏幕上的行數<br>底部插圖<br>控制中心抓取器<br>畫中畫<br>iPhone 11相機UI<br><br>Bring iPhone X features and more to devices running iOS 13<br>Features:<br>iPhone X home and multitask gestures<br>iPhone X and iPad status bar style<br>Battery percentage in battery icon<br>Hide the status bar in the control center<br>iPhone X keyboard<br>Lock screen shortcuts<br>Round corners, base and switcher<br>Face ID animation<br>Reduce the number of lines on the home screen<br>Bottom illustration<br>Control center grabber<br>Picture in Picture<br>iPhone 11 camera UI",
+	"compatitle": "iOS 13",
+	"changelog": "<strong>1.3.1</strong><br>- Initial Release.<br>",
+	"screenshot": "<div style='text-align:center;'><img width=95% src='https://i.imgur.com/SeOHA94.png;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/vLahzZk.jpg;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/pEFmfJR.jpg;'/></a><br></div>",
+	 "notes": "如您在本源下載任何插件提示收費或遇到收費才能下載，請先安裝本源的SwipeForMore插件，然後找到你要下載的插件，左滑安裝即可，不要點進去下載！由於本源大部分插件為正版，所以會提示這種現象！<br><br>If the system prompts that you need to pay money to download Tweaks from this source, or there is a payment sign on the right side of Tweaks, please install SwipeForMore Tweak in Repo, then find the Tweaks to download, and then swipe left to install, please do not directly click download!  Or click on Videos below to view the download method.  Since most of the plugins in this Repo are genuine, this phenomenon will be prompted!",
+	"open": true,
+}

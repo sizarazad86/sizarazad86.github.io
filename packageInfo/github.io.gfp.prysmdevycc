@@ -1,0 +1,11 @@
+{
+	"name": "",
+	"desc_short": null,
+	"desc_long": "Prysm DevyCC<br>以最美麗的風格重新構想CC<br>為MagmaEVO添加了4個禮物（安裝時自動安裝在Preset目錄中）<br>安裝教程<br>1）安裝DevyCC後，使用filza Library/Themes/PrysmDevyCC.theme/bundle進入Folder位置，您會發現prysm文件夾複製了該文件夾<br>2）將該文件夾粘貼到Library/Application Support文件夾中<br>3）使用SnowBoard或iThemer加載DevyCC，然後註銷<br>4）從帶有黑色背景圖標的控制中心設置中調整切換<br>5）現在註銷<br>需要下載Snowboard UI擴展，然後從Julioverne repo安裝Flipconvert（它也會自動安裝flipswitch）<br><br>Prysm DevyCC<br>Reimagine CC with most beautiful style.<br>Beautifully Crafted Glyphs for CC<br>This also works on normal CC too<br>Added 4 Presents for MagmaEVO (Automatically install in Preset directory while installation)<br>Made pretty simple things here for easy to use.<br><br>Installation process:<br>1.After installing DevyCC go in Folder location using filza Library/Themes/PrysmBigDevyCC.theme or PrysmSmallDevyCC.theme/bundle you'll find prysm folder copy that folder<br>2.paste that folder in Library/Application Support folder.<br>3.apply DevyCC using snowboard or ithemer then respring device.<br>4.Adjust toggles from control center settings which is with black background icons
+5)Now respring your device.",
+	"compatitle": "iOS 13",
+	"changelog": "<strong>1.9.1</strong><br>- Initial Release.<br>",
+	"screenshot": "<div style='text-align:center;'><img width=95% src='https://i.imgur.com/XK5om3P.jpg;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/jA7u9MQ.jpg;'/></a><br></div>",
+	"notes": "如您在本源下載任何插件提示收費或遇到收費才能下載，請先安裝本源的SwipeForMore插件，然後找到你要下載的插件，左滑安裝即可，不要點進去下載！由於本源大部分插件為正版，所以會提示這種現象！<br><br>If the system prompts that you need to pay money to download Tweaks from this source, or there is a payment sign on the right side of Tweaks, please install SwipeForMore Tweak in Repo, then find the Tweaks to download, and then swipe left to install, please do not directly click download!  Or click on Videos below to view the download method.  Since most of the plugins in this Repo are genuine, this phenomenon will be prompted!",
+	"open": true,
+}

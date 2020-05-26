@@ -1,0 +1,9 @@
+{
+	"name": "",
+	"desc_short": null,
+	"desc_long": "到目前為止，LockPlus Pro是越獄（iPhone）上最好的鎖定屏幕調整。 它有一個龐大的社區和超過一萬個可下載的免費主題<br>安裝LockPlus Pro，轉到設置並啟用它，然後在“hide items”部分中禁用諸如時間之類的選項,然後註銷<br>在鎖定屏幕上時，向下滑動（從中間）以顯示LockPlus菜單，您可以從菜單下載主題<br>屏幕上顯示通知時，您將無法訪問LockPlus菜單。 這是設計使然<br>如果使用的語言會翻轉設備屏幕（阿拉伯語），則無法隱藏“今天”視圖<br>LockPlus僅適用於iPhone，儘管它可能在iPad上運行，但所有主題均針對iPhone設計",
+	"compatitle": "iOS 9-iOS 13(包括A12)",
+	"changelog": "<strong>1.8.6</strong><br>- Initial Release.<br>",
+	"screenshot": "<div style='text-align:center;'><img width=95% src='https://i.imgur.com/ecwGzXz.jpg;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/65Uxkci.png;'/></a><br></div>",
+	"open": true,
+}

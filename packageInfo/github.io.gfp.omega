@@ -1,0 +1,9 @@
+{
+	"name": "",
+	"desc_short": null,
+	"desc_long": "Omega是一個定制的關機菜單，旨在同時實現時尚和功能。該菜單支持一系列不同的電源選項，並且在現代界面中可以實現。如果您不喜歡該界面，請放心，我已經建立了考慮到用戶自定義的Omega，您將可以調整Omega以適應您的喜好或設置！<br><br>觸發手勢：點按一下音量鍵➕，再點按一下音量鍵➖，最後長按關機鍵！<br><br>Omega is a custom powerdown menu that aims to achieve both fashion and function.The menu supports a range of different power options and does so in a modern interface.If you don't like the interface,don't worry,I've built Omega with user customization in mind.You will be able to tweak Omega to fit your liking or setup.<br><br>Trigger Gestures:Tap once the volume keys➕,And then press the volume key point➖,And finally press the OFF button!",
+	"compatitle": "iOS 13",
+   "screenshot": "<div style='text-align:center;'><img width=95% src='https://i.imgur.com/wzzrTxl.jpg;'/></a><br></div>",
+   "notes": "如您在本源下載任何插件提示收費或遇到收費才能下載，請先安裝本源的SwipeForMore插件，然後找到你要下載的插件，左滑安裝即可，不要點進去下載！由於本源大部分插件為正版，所以會提示這種現象！<br><br>If the system prompts that you need to pay money to download Tweaks from this source, or there is a payment sign on the right side of Tweaks, please install SwipeForMore Tweak in Repo, then find the Tweaks to download, and then swipe left to install, please do not directly click download!  Or click on Videos below to view the download method.  Since most of the plugins in this Repo are genuine, this phenomenon will be prompted!",
+	"open": true,
+}

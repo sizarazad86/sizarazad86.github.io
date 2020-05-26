@@ -1,0 +1,11 @@
+{
+	"name": "",
+	"desc_short": null,
+	"desc_long": "它允許您鎖定您的應用程序，遊戲和設備中包含的所有應用程序，並使用面部ID以及觸摸ID和密碼鎖定它們。<br>當您單擊該應用程序時，將要求觸摸if或Face ID進行驗證 ，此後將打開應用程序<br>如果未驗證面部ID和触摸ID，並且還可以使用創建的密碼打開應用程序，則可以創建密碼。<br> Siri支持解鎖<br><br>It allows you to lock your apps, games, and all the applications your device contains in locking them with face id and touch id and password<br>When you click on the application, the touch if or face id will be requested to verify it, after which the application will be opened<br>You can create a password in the event that the Face id and Touch id are not verified, and the applications are also opened by the password that was created.<br>Support unlock by Siri",
+	"compatitle": "iOS11-later",
+	"changelog": "<strong>2.0-3</strong><br>- Initial Release.<br>",
+   "screenshot": "<div style='text-align:center;'><img width=95% src='https://i.imgur.com/7zq8sCr.jpg;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/jdttCYg.jpg;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/uLuNHLR.jpg;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/K7wAkQT.jpg;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/hD4dwK0.jpg;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/XAbd1qG.jpg;'/></a><br></div>",
+	"notes": "如您在本源下載任何插件提示收費或遇到收費才能下載，請先安裝本源的SwipeForMore插件，然後找到你要下載的插件，左滑安裝即可，不要點進去下載！由於本源大部分插件為正版，所以會提示這種現象！<br><br>If the system prompts that you need to pay money to download Tweaks from this source, or there is a payment sign on the right side of Tweaks, please install SwipeForMore Tweak in Repo, then find the Tweaks to download, and then swipe left to install, please do not directly click download!  Or click on Videos below to view the download method.  Since most of the plugins in this Repo are genuine, this phenomenon will be prompted!",
+	"open": true,
+}
+

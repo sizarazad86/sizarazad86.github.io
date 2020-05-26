@@ -1,0 +1,10 @@
+{
+	"name": "",
+	"desc_short": null,
+	"desc_long": "A-Shields可幫助保護您的設備。A-Shields允許您鎖定控制中心中的連接模塊或鎖定您的應用程序。當您連接到特定的WiFi網絡時，您可以關閉保護功能",
+	"compatitle": "iOS 13",
+	"changelog": "<strong>1.2.4</strong><br>- Initial Release.<br>",
+   "screenshot": "<div style='text-align:center;'><img width=95% src='https://i.imgur.com/z7K8Kkf.png;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/OuGU37y.png;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/05TNzXz.png;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/06f8sXd.png;'/></a><br></div>",
+	"notes": "如您在本源下載任何插件提示收費或遇到收費才能下載，請先安裝本源的SwipeForMore插件，然後找到你要下載的插件，左滑安裝即可，不要點進去下載！由於本源大部分插件為正版，所以會提示這種現象！",
+	"open": true,
+}

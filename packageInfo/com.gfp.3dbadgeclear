@@ -1,0 +1,10 @@
+{
+	"name": "",
+	"desc_short": null,
+	"desc_long": "那些不斷在主屏幕上顯示角標並使其雜亂無章的應用程序讓您感到煩惱嗎？還是您現在有太多電子郵件無法處理？ 好吧，您不必擔心任何這些！<br>3DBadgeClear允許您從Force Touch / 3D Touch菜單中清除角標！ 3DBadgeClear還可以保持菜單整潔，因為它只會出現在實際上具有角標的應用程序中！<br>兼容iOS 10到13.3，並支持明暗模式（系統）<br><br>3DBadgeClear is the Silzee Tweak of the Year Silver Award winner!",
+	"compatitle": "iOS 13",
+	"changelog": "<strong>1.6.7</strong><br>- Initial Release.<br>",
+	"screenshot": "<div style='text-align:center;'><img width=95% src='https://i.imgur.com/FUQEcxI.jpg;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/1k9YwQS.jpg;'/></a><br></div>",
+	"notes": "如您在本源下載任何插件提示收費或遇到收費才能下載，請先安裝本源的SwipeForMore插件，然後找到你要下載的插件，左滑安裝即可，不要點進去下載！由於本源大部分插件為正版，所以會提示這種現象！<br><br>If the system prompts that you need to pay money to download Tweaks from this source, or there is a payment sign on the right side of Tweaks, please install SwipeForMore Tweak in Repo, then find the Tweaks to download, and then swipe left to install, please do not directly click download!  Or click on Videos below to view the download method.  Since most of the plugins in this Repo are genuine, this phenomenon will be prompted!",
+	"open": true,
+}

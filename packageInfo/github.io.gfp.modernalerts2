@@ -1,0 +1,11 @@
+{
+	"name": "",
+	"desc_short": null,
+	"desc_long": "iOS警報很無聊。 蘋果多年來一直使用相同的設計，現在是時候推出更現代的產品了！ModernAlerts 2重新設計了iOS上的警報，使其看起來更像tvOS上的警報。它帶有一組不同的選項：<br>自定義背景-您可以在模糊頂部應用自定義背景<br>自定義按鈕顏色-您可以選擇按鈕將使用的顏色<br>自定義背景圖片-您可以選擇將自己喜歡的圖片作為背景，而不是模糊顏色<br>暗模式-使用暗警報代替亮警報<br><br> iOS alerts are boring. Apple has been using the same design for years, and it is time for something more modern. Let me introduce ModernAlerts 2! ModernAlerts 2 redesigns alerts on iOS to look more like the alerts on tvOS. It comes with a set of different options:<br>Custom Background - you can apply a custom background on top of the blur<br>Custom Button Colors - you can choose which colors the buttons will use<br>Custom Background Image - instead of blurring a color, you can choose to have your favorite image as your background<br>Dark Mode - use dark alerts instead of light.",
+	"compatitle": "iOS 11-later",
+	"changelog": "<strong>1.7.2</strong><br>- Initial Release.<br>",
+         "screenshot": "<div style='text-align:center;'><img width=95% src='https://i.imgur.com/rAlBTwj.png;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/7ccgUCv.png;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/TLy6hJ9.png;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/TVjY6ke.png;'/></a><br></div>",
+	"notes": "如您在本源下載任何插件提示收費或遇到收費才能下載，請先安裝本源的SwipeForMore插件，然後找到你要下載的插件，左滑安裝即可，不要點進去下載！由於本源大部分插件為正版，所以會提示這種現象！<br><br>If the system prompts that you need to pay money to download Tweaks from this source, or there is a payment sign on the right side of Tweaks, please install SwipeForMore Tweak in Repo, then find the Tweaks to download, and then swipe left to install, please do not directly click download!  Or click on Videos below to view the download method.  Since most of the plugins in this Repo are genuine, this phenomenon will be prompted!",
+	"open": true,
+}
+

@@ -1,0 +1,10 @@
+{
+	"name": "",
+	"desc_short": null,
+	"desc_long": "Prysm Arc CC<br>為您的控制中心進行全新設計<br>在Prysm CC和常規CC<br>上進行安裝過程：<br>1.安裝Prysm Arc CC後，請使用filza/進入文件夾位置主題/Prysm Arc CC icon.theme/Bundles，您將找到Prysm文件夾副本prysm文件夾<br>2.在Library/Application Support中粘貼並替換文件夾內的文件夾<br>3.Adjust在控制中心設置中進行切換帶有黑色背景圖標<br>4.使用Snowboard或iThemer應用Prysm Arc CC<br>5.現在重新啟動設備<br><br>Prysm Arc CC<br>An Fresh Design for Your Control Centre<br>Works on Prysm CC & Regular CC<br><br>Installation Process:<br>1.After installing Prysm Arc CC go to folder location using filza Library/Themes/Prysm Arc CC icons.theme/Bundles you'll find Prysm folder copy prysm folder.<br>2.Paste and Replace the folder inside folder in Library/Application Support.<br>3.Adjust toggles from Control Center settings which is with black background icons.<br>4.Apply Prysm Arc CC using Snowboard or iThemer.<br>5.Now Respring your device.",
+	"compatitle": "iOS 11-later",
+   "screenshot": "<div style='text-align:center;'><img width=95% src='https://i.imgur.com/M1DE5SG.jpg;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/UBD5mDi.jpg;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/34UBBSj.jpg;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/PeRULLU.jpg;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/zha2blR.jpg;'/></a><br></div>",
+	"notes": "如您在本源下載任何插件提示收費或遇到收費才能下載，請先安裝本源的SwipeForMore插件，然後找到你要下載的插件，左滑安裝即可，不要點進去下載！由於本源大部分插件為正版，所以會提示這種現象！<br><br>If the system prompts that you need to pay money to download Tweaks from this source, or there is a payment sign on the right side of Tweaks, please install SwipeForMore Tweak in Repo, then find the Tweaks to download, and then swipe left to install, please do not directly click download!  Or click on Videos below to view the download method.  Since most of the plugins in this Repo are genuine, this phenomenon will be prompted!",
+	"open": true,
+}
+

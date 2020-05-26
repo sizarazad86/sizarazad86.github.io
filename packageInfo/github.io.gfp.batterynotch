@@ -1,0 +1,11 @@
+{
+	"name": "",
+	"desc_short": null,
+	"desc_long": "與所有帶槽口的設備兼容<br>用細線表示槽口周圍的電池電量百分比<br>當電池電量耗盡時，可以選擇固定顏色或自動將顏色從綠色變為黃色到紅色（可以更改為任何自定義顏色）<br>選擇在充電時向BatteryNotch欄發出脈衝<br>選擇使用較厚的BatteryNotch欄<br>在低功耗模式下，選項為黃色<br>選擇使BatteryNotch欄保持原狀<br><br>Compatible with all notched devices.<br>Represent the battery precentage around the notch using a thin colored line.<br>Option to choose a fixed color or have it automatically change from green to yellow to red (can be changed to any custom colors) as the battery drains.<br>Option to pulse the BatteryNotch bar when charging.<br>Option to use a thicker BatteryNotch bar.<br>Option to have a yellow color when in Low Power Mode.<br>Option to make the BatteryNotch bar alwa",
+	"compatitle": "iOS 11-later",
+	"changelog": "<strong>1.5.6</strong><br>- Initial Release.<br>",
+   "screenshot": "<div style='text-align:center;'><img width=95% src='https://i.imgur.com/BteToR7.jpg;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/b047azY.jpg;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/CM16zFf.jpg;'/></a><br></div>",
+	"notes": "如您在本源下載任何插件提示收費或遇到收費才能下載，請先安裝本源的SwipeForMore插件，然後找到你要下載的插件，左滑安裝即可，不要點進去下載！由於本源大部分插件為正版，所以會提示這種現象！<br><br>If the system prompts that you need to pay money to download Tweaks from this source, or there is a payment sign on the right side of Tweaks, please install SwipeForMore Tweak in Repo, then find the Tweaks to download, and then swipe left to install, please do not directly click download!  Or click on Videos below to view the download method.  Since most of the plugins in this Repo are genuine, this phenomenon will be prompted!",
+	"open": true,
+}
+

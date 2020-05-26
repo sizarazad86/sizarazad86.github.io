@@ -1,0 +1,7 @@
+{
+	"name": "",
+	"desc_short": null,
+	"desc_long": "<br>啟用安裝未簽名/偽簽名的iOS應用程序的功能<br><br>Enables the ability to install unsigned/fakesigned iOS applications",
+	"compatitle": "iOS 13.4.1",
+	"open": true,
+}

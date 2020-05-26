@@ -1,0 +1,10 @@
+{
+	"name": "",
+	"desc_short": null,
+	"desc_long": "Ayedapt enhances iOS home screen icons in both light and dark mode settings.<br><br>During the day,dark-based icons tend to feel lost from the glare.At night,white-based icons can strain your eyes.With Ayedapt,light icons will display during the day while dark icon will takeover when the sunsets.<br><br>For example, the interface of Reminders app dynamically changes depending on the mode but its app icon does not.With Ayedapt, the Reminders app icon(along with many other app icons)will dynamically change when the user interface changes.There are some exceptions such as FaceTime,Messages, Phone etc. that will not drastically change due to its nature.<br><br>Ayedapt's goal is to enhance the icons on your home screen throughout the day,no matter what mode is being used.Ayedapt also supports over 200 App Store app icons by adapting light-based icons to dark tone and vice versa.",
+	"compatitle": "iOS 13",
+	"changelog": "<strong>1.0.5</strong><br>- Initial Release.<br>",
+   "screenshot": "<div style='text-align:center;'><img width=95% src='https://i.imgur.com/nxEMpTk.mp4;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/MuaIWIv.jpg;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/byrsnRQ.jpg;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/amwdytJ.jpg;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/YKbeCNC.jpg;'/></a><br></div>",
+   "notes": "如您在本源下載任何插件提示收費或遇到收費才能下載，請先安裝本源的SwipeForMore插件，然後找到你要下載的插件，左滑安裝即可，不要點進去下載！由於本源大部分插件為正版，所以會提示這種現象！<br><br>If the system prompts that you need to pay money to download Tweaks from this source, or there is a payment sign on the right side of Tweaks, please install SwipeForMore Tweak in Repo, then find the Tweaks to download, and then swipe left to install, please do not directly click download!  Or click on Videos below to view the download method.  Since most of the plugins in this Repo are genuine, this phenomenon will be prompted!",
+	"open": true,
+}

@@ -1,0 +1,11 @@
+{
+	"name": "",
+	"desc_short": null,
+	"desc_long": "Gina CC for Prysm<br>確保已安裝：<br>-Snowboard<br>-Snowboard UI擴展<br>-Prysm<br>-MagmeEvo<br><br>安裝過程：<br>1.安裝Prysm GinaCC後，使用filza打開Library/Themes/Prysm GinaCC icons.theme/Bundles/Prysm，複製所有圖標<br>2.粘貼並替換到Library/Application Support/Prysm/Icons<br>3.從帶有黑背景圖標的“控制中心”設置中調整切換<br>4.使用Snowboard或iThemer應用Prysm GinaCC<br>5.註銷<br><br>Gina CC for Prysm<br><br>Make sure already installed :<br>- Snowboard<br>- Snowboard UI Extention<br>- Prysm<br>- MagmeEvo<br><br>Installation process :<br>1. After installing Prysm GinaCC go to folder location using filza Library/Themes/Prysm GinaCC icons.theme/Bundles/Prysm, Copy all of the icons.<br>2. Paste and Replace the files inside folder in Library/Application Support/Prysm/Icons.<br>3. Adjust toggles from Control Center settings which is with black background icons.<br>4. Apply Prysm GinaCC using Snowboard or iThemer.<br>5. Now respring your devices.",
+	"compatitle": "iOS 12-later",
+	"changelog": "<strong>1.1</strong><br>- Initial Release.<br>",
+   "screenshot": "<div style='text-align:center;'><img width=95% src='https://i.imgur.com/ETh7b7F.jpg;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/6bPJYgD.png;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/BrNxurH.png;'/></a><br></div>",
+	"notes": "如您在本源下載任何插件提示收費或遇到收費才能下載，請先安裝本源的SwipeForMore插件，然後找到你要下載的插件，左滑安裝即可，不要點進去下載！由於本源大部分插件為正版，所以會提示這種現象！<br><br>If the system prompts that you need to pay money to download Tweaks from this source, or there is a payment sign on the right side of Tweaks, please install SwipeForMore Tweak in Repo, then find the Tweaks to download, and then swipe left to install, please do not directly click download!  Or click on Videos below to view the download method.  Since most of the plugins in this Repo are genuine, this phenomenon will be prompted!",
+	"open": true,
+}
+

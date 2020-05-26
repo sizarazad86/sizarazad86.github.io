@@ -1,0 +1,10 @@
+{
+	"name": "",
+	"desc_short": null,
+	"desc_long": "您的設備，您的Focus<br><br>Purefocus2支持ios 13+，如果您正在尋找較舊的iOS支持，請轉至PureFocus<br><br>PureFocus2在一定程度上禁用通向通知的通知並分散應用程序的注意力時間，這樣您就可以專注於完成所需的任務<br><br>它以一種優雅而簡單的方式做到這一點：只需選擇所需的應用程序，輸入時間，然後單擊啟動Focusmode即可！Purefocus2還提供了CC切換，可以更快地開啟<br><br>Your Device.Your Focus.<br><br>Purefocus2 supports ios 13+,if you're looking for older iOS support,go to PureFocus<br><br>PureFocus2 disables acces to notifications and distracting apps for a certain amount of time so you can focus solely on doing the tasks you need to do.<br><br>It does this in an elegant and easy way:just select the apps you want,enter the amount of time,and click Start Focusmode.Purefocus2 also offers a CC toggle for even faster focussing.",
+	"compatitle": "iOS 13",
+	"changelog": "<strong>2.0</strong><br>- Initial Release.<br>",
+   "screenshot": "<div style='text-align:center;'><img width=95% src='https://i.imgur.com/Vh7UUCs.jpg;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/9tNHPel.jpg;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/WAnT2PY.jpg;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/Pw70Tck.jpg;'/></a><br></div>",
+   "notes": "如您在本源下載任何插件提示收費或遇到收費才能下載，請先安裝本源的SwipeForMore插件，然後找到你要下載的插件，左滑安裝即可，不要點進去下載！由於本源大部分插件為正版，所以會提示這種現象！<br><br>If the system prompts that you need to pay money to download Tweaks from this source, or there is a payment sign on the right side of Tweaks, please install SwipeForMore Tweak in Repo, then find the Tweaks to download, and then swipe left to install, please do not directly click download!  Or click on Videos below to view the download method.  Since most of the plugins in this Repo are genuine, this phenomenon will be prompted!",
+	"open": true,
+}

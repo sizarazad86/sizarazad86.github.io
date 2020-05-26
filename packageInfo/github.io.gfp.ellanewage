@@ -1,0 +1,11 @@
+{
+	"name": "",
+	"desc_short": null,
+	"desc_long": "它是prysm CC主題和respring徽標和statusbar主題，因此3合1<br>圖標和音樂播放器的12種顏色的prysm主題<br>在安裝軟件包打開filza之後應用Stebs，然後轉到/ Library / Themes / Prysm NewAgeCC icons.theme / Bundles / Prysm，您將找到文件名Icons將其複制並替換到/ Library / Application Support / Prysm中，然後註銷<br>對於顏色，您需要安裝Magma Evo，並且您會在Magma Evo中找到12種顏色。在“管理預設”中，“首選項”將其應用然後註銷<br>您可以從SnowBoard，Anemone或iThemer應用註銷Logo，您可以從snowboard statusbar EX或Anemone或iThemer應用狀態欄主題<br><br>Prysm theme for icons and music player with 12 colors
+apply stebs after install package open filza and go to/Library/Themes/ Prysm NewAgeCC icons.theme/Bundles/Prysm  You will find file name Icons copy it and replace it in /Library/Application Support/Prysm<br>then make a respiring<br>and for colors you need to install Magma Evo and you will find the 12 colors in Magma EvoPreferences at Manage Presets apply it then respiring and thats it and other icons from snowboard<br>you can apply respring logo from snowboard or anemone or ithemer<br>you can apply statusbar theme from snowboard statusbar EX or anemone or ithemer<br>",
+	"compatitle": "iOS 13",
+	"changelog": "<strong>1.0.8</strong><br>- Initial Release.<br>",
+	"screenshot": "<div style='text-align:center;'><img width=95% src='https://i.imgur.com/KJ9jePn.jpg;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/kJyb1wq.jpg;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/V2Z49FA.jpg;'/></a><br></div>",
+	"notes": "如您在本源下載任何插件提示收費或遇到收費才能下載，請先安裝本源的SwipeForMore插件，然後找到你要下載的插件，左滑安裝即可，不要點進去下載！由於本源大部分插件為正版，所以會提示這種現象！<br><br>If the system prompts that you need to pay money to download Tweaks from this source, or there is a payment sign on the right side of Tweaks, please install SwipeForMore Tweak in Repo, then find the Tweaks to download, and then swipe left to install, please do not directly click download!  Or click on Videos below to view the download method.  Since most of the plugins in this Repo are genuine, this phenomenon will be prompted!",
+	"open": true,
+}

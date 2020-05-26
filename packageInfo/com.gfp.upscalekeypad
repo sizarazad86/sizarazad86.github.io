@@ -1,0 +1,10 @@
+{
+	"name": "",
+	"desc_short": null,
+	"desc_long": "修正更改高分辨率導致撥號鍵盤錯位（但還是有缺點），控制中心錯位可下載Prysm代替！配合一起下載還有HandyKey（主要修復鍵盤錯位）",
+	"compatitle": "iOS 13.4.1",
+	"changelog": "<strong>1.0</strong><br>- Initial Release.<br>",
+	"screenshot": "<div style='text-align:center;'><img width=95% src='https://i.imgur.com/8Pm4btt.png;'/></a><br></div>",
+	"notes": "如您在本源下載任何插件提示收費或遇到收費才能下載，請先安裝本源的SwipeForMore插件，然後找到你要下載的插件，左滑安裝即可，不要點進去下載！由於本源大部分插件為正版，所以會提示這種現象！",
+	"open": true,
+}

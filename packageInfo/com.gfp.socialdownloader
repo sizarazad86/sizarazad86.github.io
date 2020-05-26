@@ -1,0 +1,11 @@
+{
+	"name": "",
+	"desc_short": null,
+	"desc_long": "Social Downloader輕巧，沒有額外的依賴，可以從以下應用程序下載照片/視頻和故事：<br>WhatsApp：在故事中，單擊左上方的三個點進行保存<br>Facebook：長按故事視圖以保存故事；全屏輸入視頻，然後點擊右下角的三個點以保存<br>Twitter：在視頻帖子下，單擊共享按鈕<br>Instagram：在提要上雙擊帖子並長按",
+	"compatitle": "iOS 13",
+	"changelog": "<strong>1.2-1</strong><br>- Initial Release.<br>",
+	"screenshot": "<div style='text-align:center;'><img width=95% src='https://i.imgur.com/G3tG3rp.jpg;'/></a><br></div>",
+	"notes": "如您在本源下載任何插件提示收費或遇到收費才能下載，請先安裝本源的SwipeForMore插件，然後找到你要下載的插件，左滑安裝即可，不要點進去下載！由於本源大部分插件為正版，所以會提示這種現象！",
+	"open": true,
+}
+

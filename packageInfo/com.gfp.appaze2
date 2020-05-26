@@ -1,0 +1,10 @@
+{
+	"name": "",
+	"desc_short": null,
+	"desc_long": "在一個乾淨友好的用戶界面中，可通過3D觸摸菜單輕鬆訪問每個應用程序最多自定義18個設置<br>Appaze 2可讓您直接使用其3D Touch菜單自定義特定應用的音量，亮度和一系列切換（Wi-Fi，蜂窩，方向鎖定，VPN等）<br>每次自定義應用程序出現在前台（從主屏幕打開，應用程序切換器）時，它將設置選定的值。另外，您還可以選擇在每次退出應用程序時恢復以前的值",
+	"compatitle": "iOS 13",
+	"changelog": "<strong>1.1</strong><br>- Initial Release.<br>",
+	"screenshot": "<div style='text-align:center;'><img width=95% src='https://i.imgur.com/TfhIuPM.mp4;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/nTwUDNu.png;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/uXMUThJ.png;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/KYI9mJC.png;'/></a><br></div>",
+	"notes": "如您在本源下載任何插件提示收費或遇到收費才能下載，請先安裝本源的SwipeForMore插件，然後找到你要下載的插件，左滑安裝即可，不要點進去下載！由於本源大部分插件為正版，所以會提示這種現象！",
+	"open": true,
+}

@@ -1,0 +1,10 @@
+{
+	"name": "",
+	"desc_short": null,
+	"desc_long": "SutuPlus（蘇兔微信主題工具）<br>更新兼容微信最新7.0版本<br>最低兼容微信版本為 6.7.0<br>對系統版本號沒有特殊的要求<br>如果微信版本符合但不能用的話<br>反思一下自己是不是用的子午線或存在其他衝突<br><br>主要功能如下：<br>主題列表（主要）<br>脫離原有主題依賴an加載或封包手動替換的模式<br>直接使用插件加載美化主題<br>實現在插件內快捷查看、管理、使用主題<br>直接調用color.css，不用手動根據不同的主題替換color.css<br>在搭配主題列表功能的前提下，可以不需要任何多餘操作，切換主題的同時生效color<br>免紅包/卡券圖標替換<br>主題配套默認聊天背景<br>增加了默認的聊天背景文件規範<br>首頁行背景顏色和透明度配置，避免背景過花看不清楚字，可以通過插件配置透明度和顏色！注：這個功能不會包含聊天列表頁（也就是微信頁）<br><br>主題作者可以查看這些信息瞭解一下<br>適配說明：https://docs.qq.com/doc/DVVFTYUVvaGVSY010<br>常見問題：https://docs.qq.com/doc/DVUVxUFJyRE1JbHpS<br><br>功能界面詳細可查看下面的圖片查看<br>喜歡的朋友們可以關注苏兔公眾號，可以直接在微信上搜索「bysutu」公眾號添加",
+	"compatitle": "iOS 13",
+	"changelog": "<strong>3.0.2-2</strong><br>- Initial Release.<br>",
+	"screenshot": "<div style='text-align:center;'><img width=95% src='https://i.imgur.com/iyyyDUv.jpg;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/SOKIlxR.jpg;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/60g5PB0.jpg;'/></a><br></div>",
+	"notes": "如您在本源下載任何插件提示收費或遇到收費才能下載，請先安裝本源的SwipeForMore插件，然後找到你要下載的插件，左滑安裝即可，不要點進去下載！由於本源大部分插件為正版，所以會提示這種現象！",
+	"open": true,
+}

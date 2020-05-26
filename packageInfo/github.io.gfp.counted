@@ -1,0 +1,11 @@
+{
+	"name": "",
+	"desc_short": null,
+	"desc_long": "你的日子很重要<br>“Counted”是一項調整（當您點擊時）會將您的時鐘變成倒數計時，並顯示上一個設置日期到來之前剩餘的天數。例如，通過這種方式，您可以輕鬆地跟踪隔離所結束之前剩餘的天數。再次單擊，倒計時消失<br><br>功能：<br>啟用/禁用調整<br>設定倒數主題<br>選擇4種顯示文字的方式之一<br>設置對齊方式（將時鐘向左/向右對齊時需要）<br>字型粗細<br>設置不需要重新設置<br><br>Counted<br>Your days are Counted<br>Counted is a tweak that(when tapped)turns your clock into a countdown and shows the amount of days left before a previous set date arrives.This way you can for example easily keep track of the amount of days left before this quarantine is over.<br>When clicked,again,the countdown goes away.<br><br>Settings:<br>Enabling/Disabling the tweak<br>Set the countdown Subject<br>Select one of 4 ways to display the text<br>Set the alignment(needed for when you align your clock to the left/right)<br>Font weight<br>The settings don’t need a respring to be applied.",
+	"compatitle": "iOS 13-later",
+	"changelog": "<strong>1.1</strong><br>- Initial Release.<br>",
+   "screenshot": "<div style='text-align:center;'><img width=95% src='https://i.imgur.com/TPF2Fj9.png;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/vbwuuW9.png;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/CvITPRe.png;'/></a><br></div>",
+	"notes": "如您在本源下載任何插件提示收費或遇到收費才能下載，請先安裝本源的SwipeForMore插件，然後找到你要下載的插件，左滑安裝即可，不要點進去下載！由於本源大部分插件為正版，所以會提示這種現象！<br><br>If the system prompts that you need to pay money to download Tweaks from this source, or there is a payment sign on the right side of Tweaks, please install SwipeForMore Tweak in Repo, then find the Tweaks to download, and then swipe left to install, please do not directly click download!  Or click on Videos below to view the download method.  Since most of the plugins in this Repo are genuine, this phenomenon will be prompted!",
+	"open": true,
+}
+
