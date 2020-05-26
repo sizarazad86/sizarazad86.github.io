@@ -1,18 +1,18 @@
 Package: gq.sizu.vpnmastervip
 Architecture: iphoneos-arm
-Version: 0.0.1-1
+Version: 1.1-1
 Section: Hacks
 Maintainer: Sizar
 Depends: mobilesubstrate
-Filename: ./debfiles/VpnMasterVIP_iphoneos-arm.deb
-Size: 5392
-MD5sum: 47ba6ee84c0a964d6ca654dcac1ba7d3
-SHA1: c5087f5b35102436ef8db5a486c32217e0985abf
-SHA256: 547270ee5d75c566ef94638d11893bc763e9e95cf04a27d12c70eb02018348d5
-SHA512: fc1656b4cf89a08a30ccbd79b27bb59180fefc63faeb41e03c39a7ae539c84a45df83eda531346b15e1d14cbad3cdc321dd39183d7b951004792b69651499dbe
+Filename: ./debfiles/gq.sizu.vpnmastervip_1.1-1_iphoneos-arm.deb
+Size: 4572
+MD5sum: 6952c73375bcfff4770ef79038744642
+SHA1: dd84cf57644766ddc31bf79d2714c84f74de22bc
+SHA256: 7ce6271c034e2a0c1ed05c9931ba595b95a3df2a136ab13542f4267e9f7fe997
+SHA512: 5c63056292a79be7141d7a2a82e4a26b1ec4dac42198b46f6463ce8de92a4b14c6c44219fe8761eda7b831ea0566b92248eae14228f81831ae4ba48aacebbf49
 Homepage: http://twitter.com/s1z4r
-Description: VPN Proxy Master VIP!
-Name: VPN Proxy Master VIP
+Description: VIP hack for VPNProxy Master app.
+Name: VPN Proxy Master Hack
 Author: Sizar <sizarazad86@gmail.com>
 Depiction: http://sizu.gq/description.html?id=gq.sizu.vpnmastervip
 Icon: file:///var/containers/Bundle/Application/124170B1-E03E-4632-82A2-8AE0651B6F2D/VPNMaster.app/AppIcon60x60@2x.png
