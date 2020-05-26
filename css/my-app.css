@@ -1,0 +1,93 @@
+.swiper-container {
+	background-color: #222;
+	padding-top: 10px;
+	border-bottom: 1px solid #222;
+}
+
+.swiper-wrapper {
+	padding-bottom: 30px;
+}
+
+.app-icon {
+	background-color: #aaa;
+	width: 90px;
+	height: 90px;
+	border-radius: 25%;
+}
+
+.app-icon-margin {
+	margin-left: 15px;
+}
+
+.app-name {
+	color: #fff;
+	margin: 95px auto auto -85px;
+}
+
+.first-app {
+	margin-left: 15px;
+}
+
+.last-app {
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+.icon-app {
+	width: 80px;
+	height: 80px;
+	border-radius: 25%;
+}
+
+.app-name-list {
+	font-size: 11px;
+	text-align: left;
+	margin: 3px
+}
+
+.app-icon-list {
+	width: 50px;
+	height: 50px;
+	border-radius: 25%;
+}
+
+.logo-label {
+	content: "../CydiaIcon.png";
+	font-size: 25px;
+	font-weight: bolder;
+	margin: -65px 0 0 95px;
+}
+
+.button-cydia {
+	background: rgb(204, 153, 102);
+	background: -moz-linear-gradient(180deg, rgba(204, 153, 102, 1) 17%, rgba(193, 134, 95, 1) 27%, rgba(104, 58, 41, 1) 80%);
+	background: -webkit-linear-gradient(180deg, rgba(204, 153, 102, 1) 17%, rgba(193, 134, 95, 1) 27%, rgba(104, 58, 41, 1) 80%);
+	background: linear-gradient(180deg, rgba(204, 153, 102, 1) 17%, rgba(193, 134, 95, 1) 27%, rgba(104, 58, 41, 1) 80%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#cc9966", endColorstr="#683a29", GradientType=1);
+	color: white;
+	width: auto;
+	height: 30px;
+}
+
+.button-sileo {
+	background: rgb(7, 165, 170);
+	background: -moz-linear-gradient(0deg, rgba(7, 165, 170, 1) 0%, rgba(30, 195, 188, 1) 43%, rgba(53, 224, 206, 1) 100%);
+	background: -webkit-linear-gradient(0deg, rgba(7, 165, 170, 1) 0%, rgba(30, 195, 188, 1) 43%, rgba(53, 224, 206, 1) 100%);
+	background: linear-gradient(0deg, rgba(7, 165, 170, 1) 0%, rgba(30, 195, 188, 1) 43%, rgba(53, 224, 206, 1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#07a5aa", endColorstr="#35e0ce", GradientType=1);
+	color: white;
+	width: auto;
+	height: 30px;
+}
+
+.button-zebra {
+	background-color: white;
+	color: black;
+	width: auto;
+	height: 30px;
+}
+
+.swiper-ss {
+	border-radius: 6px;
+	width: 75%;
+}
