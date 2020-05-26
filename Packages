@@ -13,8 +13,8 @@ SHA512: 5c63056292a79be7141d7a2a82e4a26b1ec4dac42198b46f6463ce8de92a4b14c6c44219
 Homepage: http://twitter.com/s1z4r
 Description: VIP hack for VPNProxy Master app.
 Name: VPN Proxy Master Hack
-Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://sizu.gq/description.html?id=gq.sizu.vpnmastervip
+Author: Sizar
+Depiction: http://sizu.gq/description.html?p=gq.sizu.vpnmastervip
 Icon: file:///var/containers/Bundle/Application/124170B1-E03E-4632-82A2-8AE0651B6F2D/VPNMaster.app/AppIcon60x60@2x.png
 
 Package: gq.sizu.test
@@ -32,5 +32,59 @@ SHA512: 5c63056292a79be7141d7a2a82e4a26b1ec4dac42198b46f6463ce8de92a4b14c6c44219
 Homepage: http://twitter.com/s1z4r
 Description: VIP hack for VPNProxy Master app.
 Name: VPN Proxy Master Hack
-Author: Sizar <sizarazad86@gmail.com>
-Depiction: http://sizu.gq/description.html?id=gq.sizu.vpnmastervip
+Author: Sizar
+Depiction: http://sizu.gq/description.html?p=gq.sizu.test
+
+Package: gq.sizu.homeplus
+Architecture: iphoneos-arm
+Version: 0.4.9.2-beta
+Section: Tweaks
+Maintainer: Sizar
+Depends: mobilesubstrate
+Filename: ./debfiles/gq.sizu.homeplus_0.4.9.2-beta_iphoneos-arm.deb
+Size: 545392
+MD5sum: ebb133db00c0c283fbb2917d1fac901f
+SHA1: 8c7dec3afa0157e84607b8c9ca0c212c8af55358
+SHA256: 66187cf894634725fafbe7edad4901d4f68dc0efe589a6785aa40d5bba23c82d
+SHA512: 3066e3dfd91056a48f1e61967cbbc418419ee293be310919f9bc0a6b9f59ad1c6d4f94859089ef5a6c39ae0d89a6947737b79d5e5af6be042e673db9d0be03db
+Homepage: http://twitter.com/s1z4r
+Description: HomePlus Beta.
+Name: HomePlus Beta
+Author: Sizar
+Depiction: http://sizu.gq/description.html?p=gq.sizu.homeplus
+
+Package: gq.sizu.betterccxi
+Architecture: iphoneos-arm
+Version: 1.6.0
+Section: Tweaks
+Maintainer: Sizar
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
+Filename: ./debfiles/gq.sizu.betterccxi_1.6.0_iphoneos-arm.deb
+Size: 80376
+MD5sum: 83029617925ea903935e37d99b1d69a2
+SHA1: 322726b1b135f4f21fef881cf1036269bc547575
+SHA256: e11185a16cd9fef3e7685c8d6d8bd9d179cc47116f20a0fc3e99a72f6f227626
+SHA512: 3840fd85b4e55156c8c0b4e4b7ee6a3a2469661fcac64d5397ee72728daf2a834f6a5795d8974f063f3de7ddb74e016d8a9d022853cf262df37fb0c3a7a61e28
+Homepage: http://twitter.com/s1z4r
+Description: BetterCCXI Cracked.
+Name: BetterCCXI
+Author: Sizar
+Depiction: http://sizu.gq/description.html?p=gq.sizu.betterccxi
+
+Package: gq.sizu.autotouch
+Architecture: iphoneos-arm
+Version: 7.0.4
+Section: Utilities
+Maintainer: Sizar
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
+Filename: ./debfiles/gq.sizu.autotouch_7.0.4_iphoneos-arm.deb
+Size: 28820932
+MD5sum: 8b30300b052d3d6b51c5d6ea9ef1c6dc
+SHA1: 974e75cc9f7f05adbafbf5fdbb71ad71ea471526
+SHA256: ee04aed1d72345ab31b8cb7018aed11bbbaabfe5d62a0d53979fc4a26a6fcb68
+SHA512: 710322c2e5ad41930f7825f026b9152eaade556b64a615d81c863942c5adb7f9d90e2c579404c8634b87c540db1e5f8c725a38e42db4ff94bd8f16a87fb09143
+Homepage: http://twitter.com/s1z4r
+Description: Record and playback touch operations, play macro scripts automatically.
+Name: AutoTouch
+Author: Sizar
+Depiction: http://sizu.gq/description.html?p=gq.sizu.autotouch
