@@ -4,7 +4,7 @@ Version: 0.0.1-1
 Section: Hacks
 Maintainer: Sizar
 Depends: mobilesubstrate
-Filename: ./debfiles/VpnMasterVIP_iphoneos-arm
+Filename: ./debfiles/VpnMasterVIP_iphoneos-arm.deb
 Size: 5392
 MD5sum: 47ba6ee84c0a964d6ca654dcac1ba7d3
 SHA1: c5087f5b35102436ef8db5a486c32217e0985abf
