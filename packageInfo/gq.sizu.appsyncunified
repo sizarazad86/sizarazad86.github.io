@@ -1,9 +1,0 @@
-{
-	"name": "AppSync Unified",
-	"desc_short": "<strong style='color:red'>AppSync Unified and jailbreaking are NOT for piracy.</strong>",
-	"desc_long": "<strong style='color:green'>AppSync Unified and jailbreaking are for freedom of your iOS device.</strong><br><br>AppSync Unified is a tweak that patches installd to allow for the installation of unsigned, fakesigned, or ad-hoc signed IPA packages on an iOS device.",
-	"compatitle": "iOS 11, 12 -  13.5",
-	"changelog": "<strong>76.0: May 21, 2020</strong><br> ⦿  Added support for iOS 13.5.<br> ⦿  No other changes were made to AppSync Unified's functionality or code.",
-	//"screenshot": "<div style='text-align:center;'><a href='http://sizu.gq/Test.png' target='_blank'><img width=95% src='http://sizu.gq/Test.png'/></a><br></div>",
-	"open": false,
-}
