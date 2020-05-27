@@ -1,0 +1,9 @@
+{
+	"name": "Home Plus Beta",
+	"desc_short": "Home Plus Beta",
+	"desc_long": "Dynamic, live homescreen layout with an intuitive UI.",
+	"compatitle": "iOS 6 -  13.5",
+	"changelog": "<strong>0.4.9.2-beta</strong><br>⦿ Initial Release.<br>",
+	//"screenshot": "<div style='text-align:center;'><a href='packagescreenshots/gq.sizu.vpnmastervip/1.jpg' target='_blank'><img width=95% src='packagescreenshots/gq.sizu.vpnmastervip/1.jpg'/></a><a href='packagescreenshots/gq.sizu.vpnmastervip/2.jpg' target='_blank'><img width=95% src='packagescreenshots/gq.sizu.vpnmastervip/2.jpg'/></a></div>",
+	"open": false,
+}
