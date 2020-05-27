@@ -551,6 +551,8 @@ ul + p {
 	max-height: 100%;
 	width: auto;
 	height: 320px;
+	margin: 5px;
+	border-radius: 10px;
 }
 
 #screenshot {
@@ -559,6 +561,7 @@ ul + p {
 	overflow-y: hidden;
 	white-space: nowrap;
 	height: 350px;
+	border-radius: 10px;
 }
 
 span .value {
@@ -566,4 +569,22 @@ span .value {
 	float: right;
 	text-align: right;
 	margin-left: 8px;
+}
+
+.title {
+	text-align: center;
+	padding-top: 10px;
+	background-color: #fff;
+	border-top: 0.1px solid #ccc;
+	border-bottom: 0.1px solid #ccc;
+}
+
+.title-icon {
+	position: absolute;
+	width: 50px;
+	height: 50px;
+}
+
+.title-text {
+	font-size: 20px;
 }
