@@ -4,6 +4,6 @@
 	"desc_long": "Record and playback touch operations, play macro scripts automatically.",
 	"compatitle": "iOS 11, 12 -  13.5",
 	"changelog": "<strong>7.0.4</strong><br>⦿ Initial Release.<br>",
-	//"screenshot": "<div style='text-align:center;'><a href='http://sizu.gq/Test.png' target='_blank'><img width=95% src='http://sizu.gq/Test.png'/></a><br></div>",
+	//"screenshot": "<div style='text-align:center;'><a href='https://sizu.gq/Test.png' target='_blank'><img width=95% src='https://sizu.gq/Test.png'/></a><br></div>",
 	"open": false,
 }
