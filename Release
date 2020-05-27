@@ -7,5 +7,5 @@ Architecture: iphoneos-arm
 Components: main
 Description: Sizar's Tweaks
 MD5Sum:
- 6cd4cfa68e047ff7a22cf53eae830ded 6244 Packages
- 25ab5abeb4636a6592a5895827c9b1c8 2520 Packages.bz2
+ d9074a97a3ca876c4074426453673dc1 6190 Packages
+ 2d543ef8530f25d2664d082127a0728a 2530 Packages.bz2
