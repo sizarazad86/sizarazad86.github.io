@@ -561,7 +561,6 @@ ul + p {
 	overflow-y: hidden;
 	white-space: nowrap;
 	height: 350px;
-	border-radius: 10px;
 }
 
 span .value {
@@ -570,6 +569,7 @@ span .value {
 	text-align: right;
 	margin-left: 8px;
 }
+
 
 .title {
 	text-align: center;
