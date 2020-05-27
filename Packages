@@ -14,7 +14,7 @@ Homepage: http://twitter.com/s1z4r
 Description: VIP hack for VPNProxy Master app.
 Name: VPN Proxy Master Hack
 Author: Sizar
-Depiction: http://sizu.gq/description.html?id=gq.sizu.vpnmastervip
+Depiction: http://sizu.gq/description.html?p=gq.sizu.vpnmastervip
 Icon: file:///var/containers/Bundle/Application/124170B1-E03E-4632-82A2-8AE0651B6F2D/VPNMaster.app/AppIcon60x60@2x.png
 
 Package: gq.sizu.test
@@ -33,7 +33,7 @@ Homepage: http://twitter.com/s1z4r
 Description: VIP hack for VPNProxy Master app.
 Name: VPN Proxy Master Hack
 Author: Sizar
-Depiction: http://sizu.gq/description.html?id=gq.sizu.test
+Depiction: http://sizu.gq/description.html?p=gq.sizu.test
 
 Package: gq.sizu.homeplus
 Architecture: iphoneos-arm
@@ -51,7 +51,7 @@ Homepage: http://twitter.com/s1z4r
 Description: HomePlus Beta.
 Name: HomePlus Beta
 Author: Sizar
-Depiction: http://sizu.gq/description.html?id=gq.sizu.homeplus
+Depiction: http://sizu.gq/description.html?p=gq.sizu.homeplus
 
 Package: gq.sizu.betterccxi
 Architecture: iphoneos-arm
@@ -69,7 +69,7 @@ Homepage: http://twitter.com/s1z4r
 Description: BetterCCXI Cracked.
 Name: BetterCCXI
 Author: Sizar
-Depiction: http://sizu.gq/description.html?id=gq.sizu.betterccxi
+Depiction: http://sizu.gq/description.html?p=gq.sizu.betterccxi
 
 Package: gq.sizu.autotouch
 Architecture: iphoneos-arm
@@ -87,7 +87,7 @@ Homepage: http://twitter.com/s1z4r
 Description: Record and playback touch operations, play macro scripts automatically.
 Name: AutoTouch
 Author: Sizar
-Depiction: http://sizu.gq/description.html?id=gq.sizu.autotouch
+Depiction: http://sizu.gq/description.html?p=gq.sizu.autotouch
 
 Package: gq.sizu.appsyncunified
 Section: Tweaks
@@ -99,7 +99,7 @@ Provides: appsync
 Depends: firmware (>= 5.0), firmware (<= 13.5), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
 Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
 Description: Enables the ability to install unsigned/fakesigned iOS applications.
-Depiction: http://sizu.gq/description.html?id=gq.sizu.appsyncunified
+Depiction: http://sizu.gq/description.html?p=gq.sizu.appsyncunified
 Homepage: https://twitter.com/s1z4r
 Name: AppSync Unified
 Author: Sizar
@@ -110,7 +110,7 @@ SHA1: d24bf78c19d9c8c9d128c1859a86c10daa506550
 SHA256: 08f376000c0119a97f84ca86adb9a01d14fa397c01a475005af36373af8154f4
 SHA512: 735764c201783da7033db62e63f0d3e5b33df33f009aab461dd3a8c6763920ee95317dd8ba5595e945499fd615aac6f1d1f736f0951ff83d2e37030ea2a42f20
 Homepage: http://twitter.com/s1z4r
-Depiction: http://sizu.gq/description.html?id=gq.sizu.appsyncunified
+Depiction: http://sizu.gq/description.html?p=gq.sizu.appsyncunified
 
 Package: gq.sizu.st5
 Name: Springtomize 5
@@ -129,5 +129,5 @@ SHA256: bb514a745fe79df7450042ae2286313a44415d307887572fb896703fb396813e
 SHA512: eafc9cf2747d360ebbf88a2109b688e2755964bad6e9c22795657763d4167888d3571691da6fae3180ecbfa8d2170e9567bc185a1645b6a9a2d34ab0fc7547f8
 Homepage: http://twitter.com/s1z4r
 Description: Record and playback touch operations, play macro scripts automatically.
-Depiction: http://sizu.gq/description.html?id=gq.sizu.st5
+Depiction: http://sizu.gq/description.html?p=gq.sizu.st5
 Icon: https://repo.packix.com/api/Packages/5e3af7ebac886b002f929657/icon/download?size=medium
