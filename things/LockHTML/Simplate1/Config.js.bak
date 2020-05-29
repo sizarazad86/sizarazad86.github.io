@@ -1,0 +1,6 @@
+/*
+Original code by Dacal --> Modified code by Schnedi --> Amirsardari
+*/
+
+var Clock = "12h";	       // choose between "12h" or "24h".
+var Lang = "en";	           // choose between "ca", "en", "fr" or "de".

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>default</key>
+		<string>NO</string>
+		<key>label</key>
+		<string>24h Mode</string>
+		<key>name</key>
+		<string>hour</string>
+		<key>type</key>
+		<string>switch</string>
+	</dict>
+	<dict>
+		<key>default</key>
+		<string>NO</string>
+		<key>label</key>
+		<string>AM/PM</string>
+		<key>name</key>
+		<string>am_pm</string>
+		<key>type</key>
+		<string>switch</string>
+	</dict>
+	<dict>
+		<key>default</key>
+		<string>NO</string>
+		<key>label</key>
+		<string>Advanced Design</string>
+		<key>name</key>
+		<string>advanced_mode</string>
+		<key>type</key>
+		<string>switch</string>
+	</dict>
+	<dict>
+		<key>label</key>
+		<string>ℹ︎⟩displays the weather widget</string>
+	</dict>
+	<dict>
+		<key>default</key>
+		<string>NO</string>
+		<key>label</key>
+		<string>Compact Advanced Design</string>
+		<key>name</key>
+		<string>compact_design</string>
+		<key>type</key>
+		<string>switch</string>
+	</dict>
+	<dict>
+		<key>default</key>
+		<string>NO</string>
+		<key>label</key>
+		<string>Use GPS location</string>
+		<key>name</key>
+		<string>gps</string>
+		<key>type</key>
+		<string>switch</string>
+	</dict>
+	<dict>
+		<key>label</key>
+		<string>ℹ︎⟩works with WidgetWeather2</string>
+	</dict>
+	<dict>
+		<key>default</key>
+		<string></string>
+		<key>label</key>
+		<string>Location code</string>
+		<key>name</key>
+		<string>location_code</string>
+		<key>type</key>
+		<string>edit</string>
+	</dict>
+	<dict>
+		<key>label</key>
+		<string>ℹ︎⟩WOEID of your city (Yahoo! Weather)</string>
+	</dict>
+	<dict>
+		<key>default</key>
+		<string>NO</string>
+		<key>label</key>
+		<string>Fahrenheit</string>
+		<key>name</key>
+		<string>isF</string>
+		<key>type</key>
+		<string>switch</string>
+	</dict>
+	<dict>
+		<key>default</key>
+		<string>Ultra thin</string>
+		<key>label</key>
+		<string>Date and weather font</string>
+		<key>name</key>
+		<string>date_weather_font</string>
+		<key>options</key>
+		<dict>
+			<key>Thin</key>
+			<string>Colfax-Light</string>
+			<key>Ultra thin</key>
+			<string>Colfax-Thin</string>
+		</dict>
+		<key>type</key>
+		<string>select</string>
+	</dict>
+	<dict>
+		<key>default</key>
+		<string>Thick</string>
+		<key>label</key>
+		<string>Time font</string>
+		<key>name</key>
+		<string>time_font</string>
+		<key>options</key>
+		<dict>
+			<key>Thick</key>
+			<string>AgencyFB-Light</string>
+			<key>Thin</key>
+			<string>Colfax-Light</string>
+			<key>Ultra thin</key>
+			<string>Colfax-Thin</string>
+		</dict>
+		<key>type</key>
+		<string>select</string>
+	</dict>
+	<dict>
+		<key>default</key>
+		<string>NO</string>
+		<key>label</key>
+		<string>Black Mode</string>
+		<key>name</key>
+		<string>black_mode</string>
+		<key>type</key>
+		<string>switch</string>
+	</dict>
+	<dict>
+		<key>label</key>
+		<string>ℹ︎⟩useful for bright wallpapers</string>
+	</dict>
+	<dict>
+		<key>default</key>
+		<string>YES</string>
+		<key>label</key>
+		<string>Leading Zero (h)</string>
+		<key>name</key>
+		<string>zero_h</string>
+		<key>type</key>
+		<string>switch</string>
+	</dict>
+	<dict>
+		<key>default</key>
+		<string>YES</string>
+		<key>label</key>
+		<string>Leading Zero (min)</string>
+		<key>name</key>
+		<string>zero_m</string>
+		<key>type</key>
+		<string>switch</string>
+	</dict>
+	<dict>
+		<key>default</key>
+		<string>YES</string>
+		<key>label</key>
+		<string>Invert date/time position</string>
+		<key>name</key>
+		<string>invert</string>
+		<key>type</key>
+		<string>switch</string>
+	</dict>
+</array>
+</plist>

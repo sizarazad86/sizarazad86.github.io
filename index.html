@@ -1,1 +1,156 @@
-ayeee
+<!DOCTYPE HTML>
+<html>
+
+<head>
+	<title>Azad Ehsan</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no" />
+	<meta name="description" content="Welcome To My Website" />
+	<meta property="og:site_name" content="Azad Ehsan" />
+	<meta property="og:title" content="Azad Ehsan" />
+	<meta property="og:type" content="article" />
+	<meta property="og:image" content="assets/me.jpg" />
+	<meta property="og:description" content="Welcome To My Website" />
+	<meta property="og:url" content="http://sizar.ml" />
+	<meta property="twitter:card" content="summary_large_image" />
+	<link rel="shortcut icon" href="assets/logo.png">
+	<link rel="stylesheet" href="assets/style.css" />
+	<link rel="stylesheet" href="assets/terminal.css" />
+	<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,400" rel="stylesheet" type="text/css" />
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+	<noscript>
+		<style>
+			body {
+				overflow: auto !important;
+			}
+
+			body:after {
+				display: none !important;
+			}
+
+			#main>.inner {
+				opacity: 1.0 !important;
+			}
+
+			#main {
+				opacity: 1.0 !important;
+				-moz-transform: none !important;
+				-webkit-transform: none !important;
+				-ms-transform: none !important;
+				transform: none !important;
+				-moz-transition: none !important;
+				-webkit-transition: none !important;
+				-ms-transition: none !important;
+				transition: none !important;
+				-moz-filter: none !important;
+				-webkit-filter: none !important;
+				-ms-filter: none !important;
+				filter: none !important;
+			}
+		</style>
+	</noscript>
+</head>
+
+<body class="is-loading" onload="typewriter()">
+	<div id="wrapper">
+		<div id="main">
+			<div class="inner">
+				<div class="image" id="me">
+					<img src="assets/icon-s.png" title="Thats Me ;)" />
+				</div>
+				<h1 id="typedtext" class="text02" title="Also Known as Sizar">Azad Ehsan</h1>
+				<h4 id="text01" class='console-container'>
+					<span id='text'></span>
+					<br>
+					<!-- <div class='console-underscore' id='console'></div> -->
+				</h4>
+				<hr id="divider01" />
+				<ul class="icons " id="icons01">
+					<li class="fab"><a target="_blank" class="fab fa-twitter icon-905 n01" href="https://twitter.com/s1z4r" title="Follow me on Twitter"><span class="label">Twitter</span></a></li>
+					<li><a target="_blank" class="fab fa-snapchat-ghost icon-900 n06" href="https://www.snapchat.com/add/s1z4r" title="Add me on Snapchat"><span class="label">Snapchat</span></a></li>
+					<li><a target="_blank" class="fab fa-instagram icon-910 n02" href="https://instagram.com/s1z4r" title="Follow me on Instagram"><span class="label">Instagram</span></a></li>
+					<li><a target="_blank" class="fab fa-facebook-f icon-906 n03 social-btn" href="http://shortnr.ga/fb" title="Add me on Facebook"><span class="label">Facebook</span></a></li>
+					<li><a target="_blank" class="fab fa-youtube icon-90d n04" href="https://youtube.com/siz3r97" title="My channel, It`s Useless"><span class="label">YouTube</span></a></li>
+					<li><a class="n00" href="cv.pdf" title="My CV"><img width="25px;" src="assets/icon.png"></a></li>
+				</ul>
+				<p class="line1">My Projects:</p>
+				<p class="line2"><span class="dollar"></span><a target="_blank" href="http://shawty.ga/" title="Operation Karez">Shawty.ga - URL Shortener.</a></p>
+				<p class="line3"><span class="dollar"></span><a target="_blank" href="https://app.sizu.gq/">O.K. - iOS Cydia Alternative.</a></p>
+				<p class="line4"><span class="dollar"></span><a target="_blank" href="https://repo.sizu.gq/">O.K. - The Cydia Repository.</a></p>
+				<p class="line5"><span class="dollar"></span><a href="#">More Soon.</a></p>
+			</div>
+		</div>
+	</div>
+	<script>
+		var on = addEventListener,
+			$ = function(q) {
+				return document.querySelector(q)
+			},
+			$$ = function(q) {
+				return document.querySelectorAll(q)
+			},
+			$body = document.body,
+			$inner = $('.inner');
+		on('load', function() {
+			setTimeout(function() {
+				$body.className = $body.className.replace(/\bis-loading\b/, 'is-playing');
+				setTimeout(function() {
+					$body.className = $body.className.replace(/\bis-playing\b/, 'is-ready');
+				}, 1625);
+			}, 100);
+		});
+		var style, sheet, rule;
+		style = document.createElement('style');
+		style.appendChild(document.createTextNode(''));
+		document.head.appendChild(style);
+		sheet = style.sheet;
+		if (navigator.userAgent.match(/Android ([0-9\.]+)/)) {
+			(function() {
+				sheet.insertRule('body::after { }', 0);
+				rule = sheet.cssRules[0];
+				var f = function() {
+					rule.style.cssText = 'height: ' + (Math.max(screen.width, screen.height)) + 'px';
+				};
+				on('load', f);
+				on('orientationchange', f);
+				on('touchmove', f);
+			})();
+		} else if (navigator.userAgent.match(/([0-9_]+) like Mac OS X/) || navigator.userAgent.match(/CPU like Mac OS X/)) {
+			(function() {
+				sheet.insertRule('body::after { }', 0);
+				rule = sheet.cssRules[0];
+				rule.style.cssText = '-webkit-transform: scale(1.0)';
+			})();
+			(function() {
+				sheet.insertRule('body.ios-focus-fix::before { }', 0);
+				rule = sheet.cssRules[0];
+				rule.style.cssText = 'height: calc(100% + 60px)';
+				on('focus', function(event) {
+					$body.classList.add('ios-focus-fix');
+				}, true);
+				on('blur', function(event) {
+					$body.classList.remove('ios-focus-fix');
+				}, true);
+			})();
+		} else if (navigator.userAgent.match(/(MSIE|rv:11\.0)/)) {
+			(function() {
+				var t, f;
+				f = function() {
+					var x = $('#wrapper');
+					x.style.height = 'auto';
+					if (x.scrollHeight <= innerHeight) x.style.height = '100vh';
+				};
+				(f)();
+				on('resize', function() {
+					clearTimeout(t);
+					t = setTimeout(f, 250);
+				});
+			})();
+		}
+	</script>
+	<script src="assets/script.js" type="text/javascript"></script>
+	<script src="assets/inobounce.min.js" type="text/javascript"></script>
+	<script src="assets/Typewriter.js" type="text/javascript"></script>
+</body>
+
+</html>

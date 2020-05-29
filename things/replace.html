@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<div id="example1">:3</div>
+
+<div id="example2">Fuck</div>
+
+<div id="example3">You</div>
+
+<div id="example4">ass</div>
+
+<button onclick="test('example1', ':3', 'hi')">replace example1</button>
+<button onclick="test('example2', 'Fuck', 'i\'m')">replace example2</button>
+<button onclick="test('example3', 'You', 'sizar')">replace example3</button>
+<button onclick="test('example4', 'ass', ':3')">replace example4</button>
+
+
+<script>
+function test(idname, oldstr, newstr) {
+    var txt=document.getElementById(idname).innerHTML;
+    var pos = txt.replace(oldstr, newstr)
+    document.getElementById(idname).innerHTML = pos;
+
+}
+
+</script>
+
+</body>
+</html>
