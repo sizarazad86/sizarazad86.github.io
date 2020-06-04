@@ -25,10 +25,13 @@ body {
 .header {
 	color: white;
 	text-align: center;
-	background-color: orangered;
 	height: 160px;
 	width: auto;
 	font-family: futuraMedium;
+}
+
+.header_bg {
+	background-color: orangered;
 }
 
 .title {
@@ -58,7 +61,7 @@ body {
 
 .info_title {
 	font-size: 24px;
-	color: orangered;
+	color: #FF4E01;
 }
 
 .info_list {
