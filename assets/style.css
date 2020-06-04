@@ -5,6 +5,16 @@
 	font-style: normal;
 }
 
+@font-face {
+	font-family: futuraMedium;
+	src: url(fonts/futura_mediumbt.ttf);
+}
+
+@font-face {
+	font-family: futuraLight;
+	src: url(fonts/futura_lightbt.ttf);
+}
+
 .icon:before {
 	font-family: 'CarrdIcons' !important;
 	speak: none;
@@ -1154,4 +1164,11 @@ a {
 .stacked--down:hover:after {
 	-webkit-transform: translate(0, -10px) scale(0.9);
 	transform: translate(0, -10px) scale(0.9);
+}
+
+.cv {
+	font-family: futuraMedium;
+	color: #7F00FF;
+	color: -webkit-linear-gradient(to right, #E100FF, #7F00FF);
+	color: linear-gradient(to right, #E100FF, #7F00FF);
 }

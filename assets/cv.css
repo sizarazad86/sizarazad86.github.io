@@ -16,6 +16,10 @@ body {
 	padding: 0;
 }
 
+.black {
+	background: #000000;
+}
+
 .purple {
 	background: #7F00FF;
 	background: -webkit-linear-gradient(to right, #E100FF, #7F00FF);
@@ -52,7 +56,21 @@ body {
 
 }
 
+.yellow {
+	background: #F7971E;
+	background: -webkit-linear-gradient(to right, #FFD200, #F7971E);
+	background: linear-gradient(to right, #FFD200, #F7971E);
+}
+
+.red {
+	background: #F00000;
+	background: -webkit-linear-gradient(to right, #DC281E, #F00000);
+	background: linear-gradient(to right, #DC281E, #F00000);
+
+}
+
 .text_color {
+	font-family: futuraMedium;
 	color: #7F00FF;
 	color: -webkit-linear-gradient(to right, #E100FF, #7F00FF);
 	color: linear-gradient(to right, #E100FF, #7F00FF);

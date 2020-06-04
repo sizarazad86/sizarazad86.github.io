@@ -1,0 +1,122 @@
+@font-face {
+	font-family: futuraMedium;
+	src: url(fonts/futura_mediumbt.ttf);
+}
+
+@font-face {
+	font-family: futuraLight;
+	src: url(fonts/futura_lightbt.ttf);
+}
+
+body {
+	font-family: futuraMedium;
+	background: #232526;
+	background: -webkit-linear-gradient(to right, #414345, #232526);
+	background: linear-gradient(to right, #414345, #232526);
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+.buttons {
+	text-align: center;
+}
+
+.title {
+	color: white;
+}
+
+.btn-hover {
+	width: 200px;
+	font-size: 16px;
+	font-weight: 600;
+	color: #fff;
+	cursor: pointer;
+	margin: 20px;
+	height: 55px;
+	text-align: center;
+	border: none;
+	background-size: 300% 100%;
+
+	border-radius: 50px;
+	moz-transition: all .4s ease-in-out;
+	-o-transition: all .4s ease-in-out;
+	-webkit-transition: all .4s ease-in-out;
+	transition: all .4s ease-in-out;
+}
+
+.btn-hover:hover {
+	background-position: 100% 0;
+	moz-transition: all .4s ease-in-out;
+	-o-transition: all .4s ease-in-out;
+	-webkit-transition: all .4s ease-in-out;
+	transition: all .4s ease-in-out;
+}
+
+.btn-hover:focus {
+	outline: none;
+}
+
+
+.black {
+	background: #000000;
+}
+
+.purple {
+	background: #7F00FF;
+	background: -webkit-linear-gradient(to right, #E100FF, #7F00FF);
+	background: linear-gradient(to right, #E100FF, #7F00FF);
+}
+
+.blue {
+	background: #a8c0ff;
+	background: -webkit-linear-gradient(to right, #3f2b96, #a8c0ff);
+	background: linear-gradient(to right, #3f2b96, #a8c0ff);
+}
+
+.green {
+	background: #11998e;
+	background: -webkit-linear-gradient(to right, #38ef7d, #11998e);
+	background: linear-gradient(to right, #38ef7d, #11998e);
+}
+
+.orange {
+	background: #E44D26;
+	background: -webkit-linear-gradient(to right, #F16529, #E44D26);
+	background: linear-gradient(to right, #F16529, #E44D26);
+}
+
+.lightRed {
+	background: rgb(255, 70, 70);
+	background: linear-gradient(129deg, rgba(255, 70, 70, 1) 0%, rgba(255, 50, 50, 1) 100%);
+}
+
+.pink {
+	background: #bc4e9c;
+	background: -webkit-linear-gradient(to right, #f80759, #bc4e9c);
+	background: linear-gradient(to right, #f80759, #bc4e9c);
+
+}
+
+.yellow {
+	background: #F7971E;
+	background: -webkit-linear-gradient(to right, #FFD200, #F7971E);
+	background: linear-gradient(to right, #FFD200, #F7971E);
+}
+
+.red {
+	background: #F00000;
+	background: -webkit-linear-gradient(to right, #DC281E, #F00000);
+	background: linear-gradient(to right, #DC281E, #F00000);
+
+}
+
+.text_color {
+	font-family: futuraMedium;
+	color: #7F00FF;
+	color: -webkit-linear-gradient(to right, #E100FF, #7F00FF);
+	color: linear-gradient(to right, #E100FF, #7F00FF);
+
+}
