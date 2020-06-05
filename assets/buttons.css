@@ -22,6 +22,9 @@ a {
 
 .buttons {
 	text-align: center;
+	max-width: 900px;
+	margin: auto;
+	padding: 10px;
 }
 
 .title {
