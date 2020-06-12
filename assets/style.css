@@ -811,7 +811,7 @@ body.is-loading #main {
 }
 
 #me img {
-	width: 15rem;
+	width: 50%;
 }
 
 h1 br + br,

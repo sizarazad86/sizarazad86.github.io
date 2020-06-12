@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="330px" height="242px">
+	<defs>
+		<linearGradient id="logo-gradient" x1="100%" y1="0%" x2="50%" y2="40%">
+
+			<stop offset="0%" stop-color="#e96443">
+				<animate attributeName="stop-color" values="#e96443; #914497; #e96443" dur="4s" repeatCount="indefinite"></animate>
+			</stop>
+
+			<stop offset="100%" stop-color="#914497">
+				<animate attributeName="stop-color" values="#914497; #e96443; #914497" dur="4s" repeatCount="indefinite"></animate>
+			</stop>
+
+		</linearGradient>
+
+	</defs>
+
+	<g transform="translate(0.000000,242.000000) scale(0.100000,-0.100000)" fill="#000000" stroke="none">
+		<path fill="url('#logo-gradient')" d="M974 2353 c-67 -121 -804 -1434 -890 -1586 -46 -82 -84 -150 -84
+-152 0 -3 192 -347 303 -543 l41 -72 718 0 c395 0 718 2 718 5 0 2 -62 114
+-138 247 -76 134 -163 287 -193 340 l-54 97 -297 1 -297 0 31 52 c17 29 85
+150 151 268 66 118 132 236 146 261 14 25 78 138 141 252 l115 207 78 0 78 0
+-17 -32 c-35 -67 -257 -463 -266 -475 -7 -8 -4 -21 9 -40 11 -15 56 -91 100
+-168 128 -222 396 -685 496 -857 l92 -158 673 0 673 0 -32 58 c-18 31 -56 98
+-84 147 -28 50 -100 179 -161 287 l-109 198 -300 0 -300 1 -47 82 -47 82 540
+3 c296 1 539 5 539 8 0 5 -152 278 -261 469 -16 28 -50 89 -77 137 l-47 88
+-347 2 -347 3 47 82 47 82 493 1 c270 0 492 2 492 5 0 3 -44 82 -97 177 -53
+95 -138 247 -189 338 l-92 165 -955 3 -955 2 -38 -67z" />
+		<path fill="url('#logo-gradient')" d="M1101 934 c-39 -69 -71 -128 -71 -130 0 -2 68 -4 151 -4 83 0 149 4
+147 8 -17 39 -141 252 -148 252 -4 0 -40 -57 -79 -126z" />
+	</g>
+</svg>
